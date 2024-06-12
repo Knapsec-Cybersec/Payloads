@@ -1,0 +1,1 @@
+U=test123; P="test123"; adduser $U; echo $P | passwd $U --stdin; usermod -aG wheel $U; cat /etc/passwd

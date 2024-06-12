@@ -1,0 +1,3 @@
+https://geekflare.com/open-source-web-application-firewall/
+https://www.darknet.org.uk/2017/11/wafninja-web-application-firewall-attack-tool-waf-bypass/
+https://securitytraning.com/how-to-hack-website-using-sql-injection-waf-bypass-2/
